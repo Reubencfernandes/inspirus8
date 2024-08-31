@@ -9,7 +9,7 @@ const TeamCards = (props:
   return (
     <>
     <CardContainer className="bg-cardcor rounded-lg font-inter">
-        <CardBody className="max-w-48">
+        <CardBody className="sm:max-w-48 max-w-32">
           <CardItem translateZ="100">
             <img
               src={props.teamImage}
