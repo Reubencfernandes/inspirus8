@@ -1,0 +1,136 @@
+{
+    "events": [
+      {
+        "title": "Inspirathon",
+        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+        "description": "Inspirathon is a 24hr hackathon where the participants are expected to make web apps/applications as a solution for the chosen problem statement. It is also the flagship event of Inspirus.",
+        "contacts": [
+          { 
+            "name": "Sonal Gaonkar", 
+            "number": "7666437251"
+         },
+          { "name": "Reuben Fernandes", 
+          "number": "7387201917" 
+        }
+        ]
+      },
+      {
+        "title": "Retrieval Sages",
+        "image":"https://cdn.midjourney.com/c8bbe4b2-71fe-4a5b-889d-7f8a1e298963/0_2.png",
+        "description": "Solving interactive analytical challenges & logical puzzles ultimately boiling down to test the abilities & coding skills of a team in a high-stakes situation of running time.",
+        "contacts": [
+          { "name": "Anuj Gaude", "number": "7798665815" },
+          { "name": "Lauren Rodrigues", "number": "9156981587" }
+        ]
+      },
+      {
+        "title": "ExQuizite",
+        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+        "description": "A technical quiz, traditional format.",
+        "contacts": [
+          { "name": "Eric Faleiro", "number": "8623069543" },
+          { "name": "Jayden Gomes", "number": "9370002388" }
+        ]
+      },
+      {
+        "title": "Code Wars",
+        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+        "description": "A completely technical event that involves coding in C++, divided into 3 different rounds. The event includes blind coding, debugging, and other C++ language-based questions.",
+        "contacts": [
+          { "name": "Malcolm Antao", "number": "7499084979" },
+          { "name": "Jayden D'Souza", "number": "9307259550" }
+        ]
+      },
+      {
+        "title": "Jigsaw Coding",
+        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+        "description": "You will be given code snippets, you have to combine them to make logical code that solves the given problem statement.",
+        "contacts": [
+          { "name": "Ritesh D. Chari", "number": "9356132475" },
+          { "name": "Rohit Bobli", "number": "8459907765" }
+        ]
+      },
+      {
+        "title": "UI UX Design",
+        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+        "description": "Create intuitive, user-friendly interfaces within a set time. Can your innovation and creativity give the best user experience?",
+        "contacts": [
+          { "name": "Faizan Akabani", "number": "8390109186" },
+          { "name": "Tushar", "number": "" }
+        ]
+      },
+      {
+        "title": "CodePlay",
+        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+        "description": "Fun coding challenges and mini-games.",
+        "contacts": [
+          { "name": "Jay Rane", "number": "8208516322" },
+          { "name": "Siddhi Naik", "number": "9423608801" }
+        ]
+      },
+      {
+        "title": "Explorer's Quest (Treasure Hunt)",
+        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+        "description": "A frantic affair, this event has all the best parts of a quiz combined with the manic frenzy of a treasure hunt. Participants will have to answer questions and solve riddles, and they'll have to run around and use all their skills.",
+        "contacts": [
+          { "name": "Aarth Vajandar", "number": "9423608801" },
+          { "name": "Leah Dias", "number": "9075796780" }
+        ]
+      },
+      {
+        "title": "Reel Ad making (Reel it Feel it)",
+        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+        "description": "Make an Instagram reel out of a given, (very silly) fake product. Best reel wins.",
+        "contacts": [
+          { "name": "Faizan Akabani", "number": "8390109186" },
+          { "name": "Marco", "number": "" }
+        ]
+      },
+      {
+        "title": "Framed (Online)",
+        "image":"https://cdn.midjourney.com/36853a23-c24a-455a-9642-068e16db8cc3/0_0.png",
+        "description": "An online digital photography competition. Open to students throughout India.",
+        "contacts": [
+          { "name": "Jordan Fernandes", "number": "" },
+          { "name": "Shreya Toraskar", "number": "9518917651" }
+        ]
+      },
+      {
+        "title": "Rubix Cube",
+        "image":"https://cdn.midjourney.com/d6434eba-b6a9-414d-a8a9-e1f83230c90b/0_0.png",
+        "description": "FASTEST TIME TO SOLVE THE CUBE WINS.",
+        "contacts": [
+          { "name": "Sherwin Lourenco", "number": "7391804162" },
+          { "name": "Leroy Fernandes", "number": "9146499671" }
+        ]
+      },
+      {
+        "title": "Escapium (Escape room)",
+        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+        "description": "Test your puzzle-solving skill in a race against time to escape the room.",
+        "contacts": [
+          { "name": "Meha Dangui", "number": "8421640719" },
+          { "name": "Siddhi Chari", "number": "" }
+        ]
+      },
+      {
+        "title": "Leisure Lounge",
+        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+        "description": "A place of fun games, friendly competitions with your friends.",
+        "contacts": [
+          { "name": "Griselda Fernandes", "number": "" },
+          { "name": "Ananya Sawant", "number": "7387797988" }
+        ]
+      },
+      {
+        "title": "Meme Off",
+        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+        "description": "Let your creativity shine and tickle the audience's funny bone with your meme-making skills.",
+        "contacts": [
+          { "name": "Krish Pednekar", "number": "7720905805" },
+          { "name": "Faizan Akabani", "number": "8390109186" }
+        ]
+      }
+    ]
+  }
+  

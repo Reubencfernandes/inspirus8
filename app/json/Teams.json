@@ -1,0 +1,72 @@
+{
+  "sections": [
+    {
+      "header": "Don Bosco College Of Engineering",
+      "category": "Faculty Coordinators",
+      "members": [
+        {
+          "name": "Fr. Kinley D'Cruz",
+          "image": "https://inspirus.dbcegoa.ac.in/Assets/faculty/kinley.jpg",
+          "title": "Director"
+        },
+        {
+          "name": "Dr. Neena Panandikar",
+          "image": "https://inspirus.dbcegoa.ac.in/Assets/faculty/neena.jpeg",
+          "title": "Principal"
+        }
+      ]
+    },
+    {
+      "header": "Website Team",
+      "category": "Team Members",
+      "members": [
+        {
+          "name": "Reuben Fernandes",
+          "image": "https://avatars.githubusercontent.com/u/31587917?v=4",
+          "title": "Designer"
+        },
+        {
+          "name": "Reuben Fernandes",
+          "image": "https://avatars.githubusercontent.com/u/31587917?v=4",
+          "title": "Data collector"
+        },
+        {
+          "name": "Reuben Fernandes",
+          "image": "https://avatars.githubusercontent.com/u/31587917?v=4",
+          "title": "Web Developer"
+        },
+        {
+          "name": "Reuben Fernandes",
+          "image": "https://avatars.githubusercontent.com/u/31587917?v=4",
+          "title": "Leader"
+        }
+      ]
+    },
+    {
+      "header": "Design And Social Media Team",
+      "category": "Team Members",
+      "members": [
+        {
+          "name": "Reuben Fernandes",
+          "image": "https://avatars.githubusercontent.com/u/31587917?v=4",
+          "title": "Designer"
+        },
+        {
+          "name": "Reuben Fernandes",
+          "image": "https://avatars.githubusercontent.com/u/31587917?v=4",
+          "title": "Data collector"
+        },
+        {
+          "name": "Reuben Fernandes",
+          "image": "https://avatars.githubusercontent.com/u/31587917?v=4",
+          "title": "Web Developer"
+        },
+        {
+          "name": "Reuben Fernandes",
+          "image": "https://avatars.githubusercontent.com/u/31587917?v=4",
+          "title": "Leader"
+        }
+      ]
+    }
+  ]
+}
