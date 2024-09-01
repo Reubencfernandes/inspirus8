@@ -4,7 +4,12 @@ import data from './json/EventName.json';
 import Nav from './Components/nav';
 import { VelocityScroll } from "@/components/magicui/scroll-based-velocity";
 import Foot from './Components/footer';
-
+import Image from 'next/image';
+import image1 from './images/assets/firstimage.jpg'
+import image2 from './images/assets/secondimage.jpg'
+import image3 from './images/assets/thirdimage.jpg'
+import image4 from './images/assets/fourthimage.jpg'
+import image5 from './images/assets/fifthimage.jpg'
 const Home = (props: { onSelectPage: any; }) => {
   return (
     <>
@@ -23,11 +28,27 @@ const Home = (props: { onSelectPage: any; }) => {
             </p>
           </div>
           <div>
-            <p className='font-inter text-white text-lg md:text-xl lg:text-2xl text-left'>
+            <p className='font-inter text-center text-white text-lg md:text-xl lg:text-2xl md:text-left'>
               Join us for Inspirus 8 on October 10th and 11th, 2024! Presented by C-CODES and the Department of Computer Engineering, this flagship event of Don Bosco College of Engineering brings together participants from across Goa to compete and innovate in technology for exciting prizes. Don't miss it!
             </p>
           </div>
         </div>
+        <div className="overflow-hidden whitespace-nowrap">
+  <div className="flex animate-marquee space-x-6">
+    <Image src={image1} alt="Image 1" className="w-auto rounded-lg h-72 md:h-43rem" />
+    <Image src={image2} alt="Image 2" className="w-auto rounded-lg h-72 md:h-43rem" />
+    <Image src={image3} alt="Image 3" className="w-auto rounded-lg h-72 md:h-43rem" />
+    <Image src={image4} alt="Image 4" className="w-auto rounded-lg h-72 md:h-43rem" />
+    <Image src={image5} alt="Image 5" className="w-auto rounded-lg h-72 md:h-43rem" />
+    <Image src={image1} alt="Image 6" className="w-auto rounded-lg h-72 md:h-43rem" />
+    <Image src={image2} alt="Image 7" className="w-auto rounded-lg h-72 md:h-43rem" />
+    <Image src={image3} alt="Image 8" className="w-auto rounded-lg h-72 md:h-43rem" />
+    <Image src={image4} alt="Image 9" className="w-auto rounded-lg h-72 md:h-43rem" />
+    <Image src={image5} alt="Image 10" className="w-auto rounded-lg h-72 md:h-43rem" />
+  </div>
+</div>
+
+
         <div className='card-section p-5 md:px-10 py-10 md:py-20'>
           <h1 className="text-4xl md:text-6xl lg:text-8xl font-bold font-retro text-center">
             Events
