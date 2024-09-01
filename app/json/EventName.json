@@ -1,136 +1,180 @@
 {
-    "events": [
-      {
-        "title": "Inspirathon",
-        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
-        "description": "Inspirathon is a 24hr hackathon where the participants are expected to make web apps/applications as a solution for the chosen problem statement. It is also the flagship event of Inspirus.",
-        "contacts": [
-          { 
-            "name": "Sonal Gaonkar", 
-            "number": "7666437251"
-         },
-          { "name": "Reuben Fernandes", 
-          "number": "7387201917" 
+  "events": [
+    {
+      "id": "1",
+      "title": "UI / UX Designing",
+      "image": "https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+      "description": "Create intuitive and user-friendly interfaces that enhance user interaction and satisfaction. Showcase your ability to design interfaces that are not only visually appealing but also functional and easy to navigate, meeting the needs of various users.",
+      "contacts": [
+        {
+          "name": "Faizan Akabani",
+          "number": "8390109186"
+        },
+        {
+          "name": "Tushar",
+          "number": ""
         }
-        ]
-      },
-      {
-        "title": "Retrieval Sages",
-        "image":"https://cdn.midjourney.com/c8bbe4b2-71fe-4a5b-889d-7f8a1e298963/0_2.png",
-        "description": "Solving interactive analytical challenges & logical puzzles ultimately boiling down to test the abilities & coding skills of a team in a high-stakes situation of running time.",
-        "contacts": [
-          { "name": "Anuj Gaude", "number": "7798665815" },
-          { "name": "Lauren Rodrigues", "number": "9156981587" }
-        ]
-      },
-      {
-        "title": "ExQuizite",
-        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
-        "description": "A technical quiz, traditional format.",
-        "contacts": [
-          { "name": "Eric Faleiro", "number": "8623069543" },
-          { "name": "Jayden Gomes", "number": "9370002388" }
-        ]
-      },
-      {
-        "title": "Code Wars",
-        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
-        "description": "A completely technical event that involves coding in C++, divided into 3 different rounds. The event includes blind coding, debugging, and other C++ language-based questions.",
-        "contacts": [
-          { "name": "Malcolm Antao", "number": "7499084979" },
-          { "name": "Jayden D'Souza", "number": "9307259550" }
-        ]
-      },
-      {
-        "title": "Jigsaw Coding",
-        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
-        "description": "You will be given code snippets, you have to combine them to make logical code that solves the given problem statement.",
-        "contacts": [
-          { "name": "Ritesh D. Chari", "number": "9356132475" },
-          { "name": "Rohit Bobli", "number": "8459907765" }
-        ]
-      },
-      {
-        "title": "UI UX Design",
-        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
-        "description": "Create intuitive, user-friendly interfaces within a set time. Can your innovation and creativity give the best user experience?",
-        "contacts": [
-          { "name": "Faizan Akabani", "number": "8390109186" },
-          { "name": "Tushar", "number": "" }
-        ]
-      },
-      {
-        "title": "CodePlay",
-        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
-        "description": "Fun coding challenges and mini-games.",
-        "contacts": [
-          { "name": "Jay Rane", "number": "8208516322" },
-          { "name": "Siddhi Naik", "number": "9423608801" }
-        ]
-      },
-      {
-        "title": "Explorer's Quest (Treasure Hunt)",
-        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
-        "description": "A frantic affair, this event has all the best parts of a quiz combined with the manic frenzy of a treasure hunt. Participants will have to answer questions and solve riddles, and they'll have to run around and use all their skills.",
-        "contacts": [
-          { "name": "Aarth Vajandar", "number": "9423608801" },
-          { "name": "Leah Dias", "number": "9075796780" }
-        ]
-      },
-      {
-        "title": "Reel Ad making (Reel it Feel it)",
-        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
-        "description": "Make an Instagram reel out of a given, (very silly) fake product. Best reel wins.",
-        "contacts": [
-          { "name": "Faizan Akabani", "number": "8390109186" },
-          { "name": "Marco", "number": "" }
-        ]
-      },
-      {
-        "title": "Framed (Online)",
-        "image":"https://cdn.midjourney.com/36853a23-c24a-455a-9642-068e16db8cc3/0_0.png",
-        "description": "An online digital photography competition. Open to students throughout India.",
-        "contacts": [
-          { "name": "Jordan Fernandes", "number": "" },
-          { "name": "Shreya Toraskar", "number": "9518917651" }
-        ]
-      },
-      {
-        "title": "Rubix Cube",
-        "image":"https://cdn.midjourney.com/d6434eba-b6a9-414d-a8a9-e1f83230c90b/0_0.png",
-        "description": "FASTEST TIME TO SOLVE THE CUBE WINS.",
-        "contacts": [
-          { "name": "Sherwin Lourenco", "number": "7391804162" },
-          { "name": "Leroy Fernandes", "number": "9146499671" }
-        ]
-      },
-      {
-        "title": "Escapium (Escape room)",
-        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
-        "description": "Test your puzzle-solving skill in a race against time to escape the room.",
-        "contacts": [
-          { "name": "Meha Dangui", "number": "8421640719" },
-          { "name": "Siddhi Chari", "number": "" }
-        ]
-      },
-      {
-        "title": "Leisure Lounge",
-        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
-        "description": "A place of fun games, friendly competitions with your friends.",
-        "contacts": [
-          { "name": "Griselda Fernandes", "number": "" },
-          { "name": "Ananya Sawant", "number": "7387797988" }
-        ]
-      },
-      {
-        "title": "Meme Off",
-        "image":"https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
-        "description": "Let your creativity shine and tickle the audience's funny bone with your meme-making skills.",
-        "contacts": [
-          { "name": "Krish Pednekar", "number": "7720905805" },
-          { "name": "Faizan Akabani", "number": "8390109186" }
-        ]
-      }
-    ]
-  }
-  
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Inspirathon",
+      "image": "https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+      "description": "Inspirathon is an intense 24-hour hackathon where participants are tasked with developing innovative web applications or solutions to address a specific problem statement. It is the flagship event of Inspirus, offering an opportunity to showcase creativity and technical skills.",
+      "contacts": [
+        {
+          "name": "Sonal Gaonkar",
+          "number": "7666437251"
+        },
+        {
+          "name": "Sairaj",
+          "number": ""
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Framed (online)",
+      "image": "https://cdn.midjourney.com/36853a23-c24a-455a-9642-068e16db8cc3/0_0.png",
+      "description": "An online digital photography competition open to students across India. Participants are invited to submit their best photographs, showcasing their skills in capturing moments and telling stories through their lens, with winners recognized for their creativity and technical prowess.",
+      "contacts": [
+        {
+          "name": "Jordan Fernandes",
+          "number": ""
+        },
+        {
+          "name": "Gretchen",
+          "number": ""
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "CodeClash",
+      "image": "https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+      "description": "CodeClash is a rigorous technical event that challenges participants to demonstrate their coding skills in C++. The competition is structured into three rounds, including blind coding, debugging, and solving C++ language-based questions to test problem-solving and programming abilities.",
+      "contacts": [
+        {
+          "name": "Jay Rane",
+          "number": "8208516322"
+        },
+        {
+          "name": "Kshitij",
+          "number": ""
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "ExQuizite",
+      "image": "https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+      "description": "ExQuizite is a technical quiz designed in a traditional format that tests participants' knowledge across various technical subjects. The quiz challenges participants to answer questions that assess their understanding and expertise in the field of technology.",
+      "contacts": [
+        {
+          "name": "Eric Faleiro",
+          "number": "8623069543"
+        },
+        {
+          "name": "Jayden Gomes",
+          "number": "9370002388"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "CryptoQuest",
+      "image": "https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+      "description": "In CryptoQuest, participants are provided with code snippets that need to be combined to form a complete and functional solution to a given problem statement. This event tests logical thinking and coding skills in a challenging and engaging way.",
+      "contacts": [
+        {
+          "name": "Ritesh D. Chari",
+          "number": "9356132475"
+        },
+        {
+          "name": "Sifhat",
+          "number": ""
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Reel Ad making (Reel it Feel it)",
+      "image": "https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+      "description": "Create an Instagram reel featuring a comically exaggerated fake product. Participants are tasked with producing the most entertaining and creative reel, with the best reel receiving recognition. This event emphasizes creativity and humor in digital content creation.",
+      "contacts": [
+        {
+          "name": "Faizan Akabani",
+          "number": "8390109186"
+        },
+        {
+          "name": "Marco",
+          "number": ""
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Memes (online)",
+      "image": "https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+      "description": "Showcase your meme-making skills by creating humorous and creative memes. This online competition encourages participants to use their wit and creativity to craft memes that will entertain and amuse the audience, with the most engaging memes winning.",
+      "contacts": [
+        {
+          "name": "Lauren Rodrigues",
+          "number": "9156981587"
+        },
+        {
+          "name": "Rakesh",
+          "number": ""
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Rubiks Cube",
+      "image": "https://cdn.midjourney.com/d6434eba-b6a9-414d-a8a9-e1f83230c90b/0_0.png",
+      "description": "Compete to achieve the fastest time in solving the Rubik's Cube. This event challenges participants' speed and problem-solving abilities as they race against the clock to complete the puzzle as quickly as possible.",
+      "contacts": [
+        {
+          "name": "Sherwin Lourenco",
+          "number": "7391804162"
+        },
+        {
+          "name": "Cynora",
+          "number": ""
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Escapium (Escape Room)",
+      "image": "https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+      "description": "Test your puzzle-solving skills in a race against time within an escape room scenario. Participants must use their critical thinking and teamwork to solve puzzles and escape the room before the time runs out.",
+      "contacts": [
+        {
+          "name": "Meha Dangui",
+          "number": "8421640719"
+        },
+        {
+          "name": "Diya",
+          "number": ""
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Masterclass",
+      "image": "https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+      "description": "Join the Masterclass for a series of fun games and friendly competitions. This event is designed to be a social gathering where participants can engage in enjoyable activities and challenge their friends in a relaxed and friendly environment.",
+      "contacts": [
+        {
+          "name": "Ananya Sawant",
+          "number": "7387797988"
+        },
+        {
+          "name": "Griselda Fernandes",
+          "number": ""
+        }
+      ]
+    }
+  ]
+}
