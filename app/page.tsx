@@ -10,7 +10,7 @@ import image2 from './images/assets/secondimage.jpg'
 import image3 from './images/assets/thirdimage.jpg'
 import image4 from './images/assets/fourthimage.jpg'
 import image5 from './images/assets/fifthimage.jpg'
-const Home = (props: { onSelectPage: any; }) => {
+const Home = () => {
   return (
     <>
       <Nav />
