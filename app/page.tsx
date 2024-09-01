@@ -15,7 +15,7 @@ const Home = () => {
     <>
       <Nav />
       <Spline
-        scene="https://prod.spline.design/P2q9a6aqHMkBs6od/scene.splinecode"
+        scene="https://prod.spline.design/csxgiWNmILHOQn8E/scene.splinecode" 
       />
       <div className='bg-background m-0'>
         <div className='grid grid-cols-1 md:grid-cols-2 px-5 text-center justify-center py-10 md:py-20'>
@@ -29,7 +29,7 @@ const Home = () => {
           </div>
           <div>
             <p className='font-inter text-center text-white text-lg md:text-xl lg:text-2xl md:text-left'>
-              Join us for Inspirus 8 on October 10th and 11th, 2024! Presented by C-CODES and the Department of Computer Engineering, this flagship event of Don Bosco College of Engineering brings together participants from across Goa to compete and innovate in technology for exciting prizes. Don't miss it!
+              Join us for Inspirus 8 on October 10th and 11th, 2024! Presented by C-CODES and the Department of Computer Engineering, this flagship event of Don Bosco College of Engineering brings together participants from across Goa to compete and innovate in technology for exciting prizes. Dont miss it!
             </p>
           </div>
         </div>

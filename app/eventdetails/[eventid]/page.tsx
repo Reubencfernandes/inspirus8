@@ -12,6 +12,7 @@ import Nav from "@/app/Components/nav";
 import HyperText from "@/components/magicui/hyper-text";
 import SparklesText from "@/components/magicui/sparkles-text";
 import Foot from "@/app/Components/footer";
+import Image from "next/image";
 
 export default function EventDetails() {
   return (
@@ -29,7 +30,7 @@ export default function EventDetails() {
               </h2>
               <div className="font-inter flex flex-col sm:flex-row items-center justify-center relative z-20 gap-10 sm:gap-20">
                 <div className="flex items-center flex-col">
-                  <img
+                  <Image
                     src="https://avatars.githubusercontent.com/u/31587917?v=4"
                     alt="Reuben"
                     className="rounded-full w-20 h-20 sm:w-24 sm:h-24 mb-2"
@@ -48,7 +49,7 @@ export default function EventDetails() {
                   </Modal>
                 </div>
                 <div className="flex items-center flex-col">
-                  <img
+                  <Image
                     src="https://avatars.githubusercontent.com/u/31587917?v=4"
                     alt="Reuben"
                     className="rounded-full w-20 h-20 sm:w-24 sm:h-24 mb-2"
@@ -160,7 +161,7 @@ export default function EventDetails() {
                 </h2>
                 <div className="font-inter leading-relaxed">
                   <p>Round 1: The Hidden Blueprint (Steganography)</p>
-                  <p>A Digital Image called "A Poneglyph" is provided.</p>
+                  <p>A Digital Image called A Poneglyph is provided.</p>
                   <p>Round 1.1</p>
                   <ul className="list-disc list-inside">
                     <li>

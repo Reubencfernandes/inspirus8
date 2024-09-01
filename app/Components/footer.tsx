@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { FaFacebook, FaInstagram, FaLinkedin } from "react-icons/fa";
 
@@ -37,7 +38,7 @@ const Foot = () => {
           </div>
         </div>
         <div className="p-2 w-full md:w-auto">
-          <img
+          <Image
             src="https://dbcegoa.ac.in/wp-content/uploads/2022/08/dbce_logo6.png"
             alt="dbce"
             className="mb-3 max-w-full h-auto mx-auto md:mx-0"

@@ -1,4 +1,5 @@
 
+import Image from "next/image"
 import { CardBody, CardContainer, CardItem } from "../../components/ui/3d-card"
 const TeamCards = (props: 
   { 
@@ -11,7 +12,7 @@ const TeamCards = (props:
     <CardContainer className="bg-cardcor rounded-lg font-inter">
         <CardBody className="sm:max-w-48 max-w-32">
           <CardItem translateZ="100">
-            <img
+            <Image
               src={props.teamImage}
               className="w-full object-cover rounded-t-lg group-hover/card:shadow-xl"
               alt="thumbnail" />

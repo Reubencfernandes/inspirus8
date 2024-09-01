@@ -1,3 +1,4 @@
+import Image from "next/image"
 import Link from "next/link"
 
 const Cards = (props: { 
@@ -7,7 +8,7 @@ const Cards = (props: {
  }) => {
   return (
     <div className='max-w-md rounded-lg  overflow-hidden shadow-lg bg-cardcor mt-9 ' >
-      <img src={props.eventImage} alt='logo' className='h-80 w-full object-cover'></img>
+      <Image src={props.eventImage} alt='logo' className='h-80 w-full object-cover'/>
       <div className='px-3 py-4'>
         <p className='font-bebas text-5xl text-white'>{props.eventName}</p>
         <p className='font-inter text-white mt-1'>{props.eventDescription}</p>
