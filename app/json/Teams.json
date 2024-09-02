@@ -39,6 +39,51 @@
           "name": "Reuben Fernandes",
           "image": "https://avatars.githubusercontent.com/u/31587917?v=4",
           "title": "Leader"
+        },
+        {
+          "name": "Ms. Janhavi Naik",
+          "image": "https://example.com/path-to-image.jpg",
+          "title": "Faculty"
+        },
+        {
+          "name": "Mrs. Sweta Rane",
+          "image": "https://example.com/path-to-image.jpg",
+          "title": "Faculty"
+        },
+        {
+          "name": "Mr. Amit Sapkal",
+          "image": "https://example.com/path-to-image.jpg",
+          "title": "Faculty"
+        },
+        {
+          "name": "Jay Rane",
+          "image": "https://example.com/path-to-image.jpg",
+          "title": "Student"
+        },
+        {
+          "name": "Shrinivas",
+          "image": "https://example.com/path-to-image.jpg",
+          "title": "Student"
+        },
+        {
+          "name": "Malcolm Antao",
+          "image": "https://example.com/path-to-image.jpg",
+          "title": "Student"
+        },
+        {
+          "name": "Reuben C. Fernandes",
+          "image": "https://example.com/path-to-image.jpg",
+          "title": "Student"
+        },
+        {
+          "name": "Eric Falera",
+          "image": "https://example.com/path-to-image.jpg",
+          "title": "Student"
+        },
+        {
+          "name": "Jayden D'souza",
+          "image": "https://example.com/path-to-image.jpg",
+          "title": "Student"
         }
       ]
     },
@@ -65,6 +110,46 @@
           "name": "Reuben Fernandes",
           "image": "https://avatars.githubusercontent.com/u/31587917?v=4",
           "title": "Leader"
+        },
+        {
+          "name": "Ms. Janhavi Naik",
+          "image": "https://example.com/path-to-image.jpg",
+          "title": "Faculty"
+        },
+        {
+          "name": "Mrs. Sweta Rane",
+          "image": "https://example.com/path-to-image.jpg",
+          "title": "Faculty"
+        },
+        {
+          "name": "Siddhi Raney",
+          "image": "https://example.com/path-to-image.jpg",
+          "title": "Student"
+        },
+        {
+          "name": "Faizan Akabani",
+          "image": "https://example.com/path-to-image.jpg",
+          "title": "Student"
+        },
+        {
+          "name": "Sagarika",
+          "image": "https://example.com/path-to-image.jpg",
+          "title": "Student"
+        },
+        {
+          "name": "Sonal Gaonkar",
+          "image": "https://example.com/path-to-image.jpg",
+          "title": "Student"
+        },
+        {
+          "name": "Shrinivas",
+          "image": "https://example.com/path-to-image.jpg",
+          "title": "Student"
+        },
+        {
+          "name": "Sydney",
+          "image": "https://example.com/path-to-image.jpg",
+          "title": "Student"
         }
       ]
     }
