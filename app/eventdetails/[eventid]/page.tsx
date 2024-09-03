@@ -48,13 +48,13 @@ export default function EventDetails({ params }: EventDetailsProps) {
 		<>
 			<Nav />
 			<div className="bg-background">
-				<h1 className="text-center font-retro text-4xl sm:text-5xl md:text-6xl lg:text-8xl">
+				<h1 className="text-center  font-retro text-4xl sm:text-5xl md:text-6xl lg:text-8xl">
 					Inspirathon
 				</h1>
 				<div className="max-w-4xl mx-auto p-4 text-white">
 					<div className="grid grid-cols-1 gap-4">
 						<div className="p-4 bg-transparent border rounded-xl border-cardborder1">
-							<h2 className="text-3xl sm:text-4xl font-retro text-center mb-2 relative z-20">
+							<h2 className="text-3xl sm:text-4xl font-inter font-bold bg-gradient-to-tr from-green-600 to-blue-500 bg-clip-text text-transparent animate-gradient-x text-center mb-2 relative z-20">
 								Event Coordinators
 							</h2>
 							<div className="font-inter flex flex-col sm:flex-row items-center justify-center relative z-20 gap-10 sm:gap-20">
@@ -104,7 +104,7 @@ export default function EventDetails({ params }: EventDetailsProps) {
 						</div>
 						<CardSpotlight className="p-4 bg-transparent border rounded-xl border-cardborder1">
 							<div className="relative z-20">
-								<h1 className="text-3xl sm:text-4xl font-retro text-center mb-2">
+								<h1 className="text-3xl sm:text-4xl font-inter font-bold bg-gradient-to-tr from-green-600 to-blue-500 bg-clip-text text-transparent animate-gradient-x text-center mb-2">
 									Details
 								</h1>
 								<p>Date: 7th October, 2023</p>
@@ -152,13 +152,13 @@ export default function EventDetails({ params }: EventDetailsProps) {
 						</CardSpotlight>
 
 						<CardSpotlight className="p-5 bg-transparent border rounded-xl border-cardborder1 md:col-span-2">
-							<div className="relative z-20 flex flex-col md:flex-row gap-9">
+							<div className="relative z-20 flex flex-col items-center">
 								<div>
 									<h2 className="text-4xl sm:text-6xl font-bebas bg-gradient-to-tr from-green-600 to-blue-500 bg-clip-text text-transparent animate-gradient-x">
 										Eligibility
 									</h2>
 								</div>
-								<p className="text-left">
+								<p>
 									Undergraduate and Diploma students from all professional and
 									non-professional institutions
 								</p>

@@ -5,6 +5,7 @@ const Cards = (props: {
   eventImage: string ,
   eventName: string ,
   eventDescription : string,
+  eventid:string
  }) => {
   return (
 			<div className="max-w-md rounded-lg  overflow-hidden shadow-lg bg-cardcor mt-9 ">
@@ -21,7 +22,8 @@ const Cards = (props: {
 					<div className="mt-5 mb-2">
 						<Link
 							className="text-white border p-3 font-inter font-bold text-xl rounded-lg border-cardborder hover:cursor-pointer hover:text-hold"
-							href="/eventdetails/1"
+							href={`/eventdetails/${props.eventid}`}
+
 						>
 							View Details
 						</Link>

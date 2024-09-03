@@ -15,7 +15,10 @@ const TeamCards = (props:
             <Image
               src={props.teamImage}
               className="w-full object-cover rounded-t-lg group-hover/card:shadow-xl"
-              alt="thumbnail" />
+              alt="thumbnail" 
+              width={100}
+              height={100}
+              />
           </CardItem>
           <CardItem
             translateZ="50"

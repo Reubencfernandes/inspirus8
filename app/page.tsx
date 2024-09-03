@@ -124,6 +124,7 @@ const Home = () => {
 									eventName={event.title}
 									eventDescription={event.description}
 									eventImage={event.image}
+									eventid={event.id}
 								/>
 							))}
 						</div>
