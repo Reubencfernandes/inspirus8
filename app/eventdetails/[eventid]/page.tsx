@@ -15,27 +15,28 @@ import HyperText from "@/components/magicui/hyper-text";
 import SparklesText from "@/components/magicui/sparkles-text";
 import Foot from "@/app/Components/footer";
 import Image from "next/image";
-import path from "node:path";
+import eventData from "@/app/json/EventName.json"; // Directly import JSON data
 
 export async function generateStaticParams() {
-	// Define the path to your JSON file
-	const filePath = path.join(process.cwd(), "app/json/EventName.json");
+    try {
+        // You don't need fs and path if you directly import JSON like this
+        const events = eventData.events;
+        console.log(events);
 
-	// Read the JSON file
-	const jsonData = fs.readFileSync(filePath, "utf-8");
-
-	// Parse the JSON data
-	const events = JSON.parse(jsonData).events;
-	console.log(events);
-
-	// Map over the events to generate the params
-	return events.map((event: { id: string }) => ({
-		eventid: event.id,
-	}));
+        // Map over the events to generate the params
+        return events.map((event) => ({
+            eventid: event.id,
+        }));
+    } catch (error) {
+        console.error("Error reading or parsing JSON file:", error);
+        return []; // Return an empty array or handle the error as needed
+    }
 }
 
-export default function EventDetails() {
-	return (
+export default function EventDetails({ params }) {
+    const { eventid } = params;
+	const Event = eventData.events.find(e => e.id === eventid);
+    return (
 		<>
 			<Nav />
 			<div className="bg-background">
@@ -57,7 +58,7 @@ export default function EventDetails() {
 										alt="Reuben"
 										className="rounded-full w-20 h-20 sm:w-24 sm:h-24 mb-2"
 									/>
-									<p>Reuben</p>
+									<p>{Event.contacts[0]?.name || 'Coordinator'}</p>
 									<p>Event Coordinator</p>
 									<Modal>
 										<ModalTrigger className="bg-black rounded-lg text-white flex justify-center group/modal-btn mt-1">
@@ -78,7 +79,7 @@ export default function EventDetails() {
 										alt="Reuben"
 										className="rounded-full w-20 h-20 sm:w-24 sm:h-24 mb-2"
 									/>
-									<p>Reuben</p>
+									<p>{Event.contacts[1]?.name || 'Coordinator'}</p>
 									<p>Event Coordinator</p>
 									<Modal>
 										<ModalTrigger className="bg-black text-white flex justify-center group/modal-btn mt-1">

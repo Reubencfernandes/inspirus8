@@ -5,6 +5,7 @@ import Nav from './Components/nav';
 import { VelocityScroll } from "@/components/magicui/scroll-based-velocity";
 import Foot from './Components/footer';
 import Image from 'next/image';
+
 import image1 from './images/assets/firstimage.jpg'
 import image2 from './images/assets/secondimage.jpg'
 import image3 from './images/assets/thirdimage.jpg'
@@ -14,7 +15,9 @@ const Home = () => {
   return (
 			<>
 				<Nav />
-				<Spline scene="https://prod.spline.design/csxgiWNmILHOQn8E/scene.splinecode" />
+				<Spline
+        scene="https://prod.spline.design/P2q9a6aqHMkBs6od/scene.splinecode" 
+      />
 				<div className="bg-background m-0">
 					<div className="grid grid-cols-1 md:grid-cols-2 px-5 text-center justify-center py-10 md:py-20">
 						<div>
