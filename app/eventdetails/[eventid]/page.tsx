@@ -49,7 +49,7 @@ export default function EventDetails({ params }: EventDetailsProps) {
 			<Nav />
 			<div className="bg-background">
 				<h1 className="text-center  font-retro text-4xl sm:text-5xl md:text-6xl lg:text-8xl">
-					Inspirathon
+					{Event?.title}
 				</h1>
 				<div className="max-w-4xl mx-auto p-4 text-white">
 					<div className="grid grid-cols-1 gap-4">
