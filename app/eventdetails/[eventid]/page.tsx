@@ -1,5 +1,5 @@
-import fs from "node:fs";
 
+import parse from 'html-react-parser'; 
 import React from "react";
 import {
 	Modal,
@@ -17,6 +17,14 @@ import Foot from "@/app/Components/footer";
 import Image from "next/image";
 import eventData from "@/app/json/EventName.json"; // Directly import JSON data
 
+
+interface EventDetailsProps {
+    params: {
+        eventid: string;
+    };
+}
+
+
 export async function generateStaticParams() {
     try {
         // You don't need fs and path if you directly import JSON like this
@@ -33,7 +41,7 @@ export async function generateStaticParams() {
     }
 }
 
-export default function EventDetails({ params }) {
+export default function EventDetails({ params }: EventDetailsProps) {
     const { eventid } = params;
 	const Event = eventData.events.find(e => e.id === eventid);
     return (
@@ -58,7 +66,7 @@ export default function EventDetails({ params }) {
 										alt="Reuben"
 										className="rounded-full w-20 h-20 sm:w-24 sm:h-24 mb-2"
 									/>
-									<p>{Event.contacts[0]?.name || 'Coordinator'}</p>
+									<p>{Event?.contacts[0].name || 'Coordinator'}</p>
 									<p>Event Coordinator</p>
 									<Modal>
 										<ModalTrigger className="bg-black rounded-lg text-white flex justify-center group/modal-btn mt-1">
@@ -79,7 +87,7 @@ export default function EventDetails({ params }) {
 										alt="Reuben"
 										className="rounded-full w-20 h-20 sm:w-24 sm:h-24 mb-2"
 									/>
-									<p>{Event.contacts[1]?.name || 'Coordinator'}</p>
+									<p>{Event?.contacts[1].name || 'Coordinator'}</p>
 									<p>Event Coordinator</p>
 									<Modal>
 										<ModalTrigger className="bg-black text-white flex justify-center group/modal-btn mt-1">
@@ -112,29 +120,7 @@ export default function EventDetails({ params }) {
 						<CardSpotlight className="p-4 bg-transparent border rounded-xl border-cardborder1 md:col-span-2">
 							<div className="relative z-20">
 								<SparklesText className="text-center mb-2" text="Rules" />
-								<ul className="list-disc list-inside leading-relaxed">
-									<li>The event is divided into 3 different rounds</li>
-									<li>
-										The exact rules for each round will be mentioned below
-									</li>
-									<li>
-										The rounds will include steganography, cryptography, and web
-										exploitation
-									</li>
-									<li>
-										To see the event participation must have a basic knowledge
-										of cybersecurity
-									</li>
-									<li>Maximum 15 teams would be allowed to register</li>
-									<li>
-										All participants must reach the venue (DBCE) by 9:00 AM on
-										the 7th of October
-									</li>
-									<li>
-										For any further queries, contact the respective student
-										coordinators (preferably on WhatsApp)
-									</li>
-								</ul>
+								<div className="list-disc list-inside" dangerouslySetInnerHTML={{ __html: Event?.rules || ""}} />
 							</div>
 						</CardSpotlight>
 
