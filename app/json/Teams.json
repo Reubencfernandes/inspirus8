@@ -248,13 +248,12 @@
           "title": "Faculty In-Charge"
         },
         {
-          "name": "Prof. Amey K. Shet Tilve",
-          "image": "/Amey tilve.jpg",
-          "title": "Faculty In-Charge"
-        },
-        {
           "name": "Prof. Merwyn D'Souza",
           "image": "/merwin.png",
+          "title": "Faculty In-Charge"
+        },{
+          "name": "Prof. Amey K. Shet Tilve",
+          "image": "/Amey tilve.jpg",
           "title": "Faculty In-Charge"
         },{
           "name": "Sonal Gaonkar",
@@ -331,12 +330,12 @@
         },{
           "name": "Griselda Fernandes",
           "title": "Coordinator",
-            "image":"/Coordinator Pics/Masterclass/Griselda.jpeg"
+            "image":"/Coordinator Pics/Masterclass/Griselda.png"
         },{
           "name": "Ananya Sawant",
          "title": "Coordinator",
           "image":"/Coordinator Pics/Masterclass/Ananya.jpeg"
-        }
+        } 
       ]
     }
   ]
