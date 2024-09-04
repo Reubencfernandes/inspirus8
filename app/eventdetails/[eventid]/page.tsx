@@ -173,7 +173,7 @@ export default function EventDetails({ params }: EventDetailsProps) {
 									Round Details
 								</h2>
 								<div className="font-inter leading-relaxed">
-									
+								<div className="font-poppins" dangerouslySetInnerHTML={{ __html: Event?.roundinfo || "Not Available"}} />
 								</div>
 							</div>
 						</CardSpotlight>

@@ -129,6 +129,7 @@
       "mode" : "offline",
       "members": "<p>Members: <b>2 participants per team</b></p>",
       "eligibility":"Undergraduate and Diploma Students from professional and non-professional institutions.",
+      "roundinfo":"",
       "contacts": [
         {
           "name": "Eric Faleiro",
@@ -153,7 +154,8 @@
       "venue": "C1, C2, C3, C4 Lab",
       "mode" : "offline",
       "members": "<p>Members: <b>2 per team</b></p>",
-      "eligibility":"Higher Secondary, College and Diploma Students",
+      "eligibility":"Undergraduate and Diploma Students from professional and non-professional institutions.",
+      "roundinfo":"",
       "contacts": [
         {
           "name": "Jayden D'Souza",
@@ -178,6 +180,8 @@
       "venue": "C4 and C9 Lab",
       "mode" : "offline",
       "members": "<p>Members: <b>2 per team</b></p>",
+      "eligibility":"Undergraduate and Diploma Students from professional and non-professional institutions.",
+      "roundinfo":"",
       "contacts": [
         {
           "name": "Faizan Akabani",
@@ -203,6 +207,8 @@
       "venue": "C4 and C9 Lab",
       "mode" : "offline",
       "members": "<p>Members: <b>2 per team</b></p>",
+      "eligibility":"Undergraduate and Diploma Students from professional and non-professional institutions.",
+      "roundinfo":"",
       "contacts": [
         {
           "name": "Lauren Rodrigues",
@@ -228,6 +234,8 @@
       "venue": "C4 and C9 Lab",
       "mode" : "offline",
       "members": "<p>Members: <b>2 per team</b></p>",
+      "eligibility":"Undergraduate and Diploma Students from professional and non-professional institutions.",
+      "roundinfo":"",
       "contacts": [
         {
           "name": "Sherwin Lourenco",
@@ -253,6 +261,8 @@
       "venue": "C4 and C9 Lab",
       "mode" : "offline",
       "members": "<p>Members: <b>2 per team</b></p>",
+      "eligibility":"Undergraduate and Diploma Students from professional and non-professional institutions.",
+      "roundinfo":"",
      "contacts": [
         {
           "name": "Meha Dangui",
@@ -277,6 +287,8 @@
       "venue": "C4 and C9 Lab",
       "mode" : "offline",
       "members": "<p>Members: <b>NA</b></p>",
+      "eligibility":"Undergraduate and Diploma Students from professional and non-professional institutions.",
+      "roundinfo":"",
       "contacts": [
         {
           "name": "Griselda Fernandes",
