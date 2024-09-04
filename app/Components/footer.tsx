@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { FaFacebook, FaInstagram, FaLinkedin } from "react-icons/fa";
+import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
 
 const Foot = () => {
   return (
@@ -20,19 +20,19 @@ const Foot = () => {
 							Twitter: @inspirus2k21
 						</p>
 						<div className="flex space-x-3 mt-3">
-							<Link href="https://instagram.com">
-								<button className="bg-white p-3 md:p-5 rounded-full">
+							<Link href="https://www.instagram.com/inspirus8?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
+								<button className="bg-white p-3 md:p-5 rounded-full hover:bg-blue-500">
 									<FaInstagram className="text-black text-xl md:text-2xl" />
 								</button>
 							</Link>
-							<Link href="https://facebook.com">
-								<button className="bg-white p-3 md:p-5 rounded-full">
+							<Link href="https://www.facebook.com/inspirusdbce/">
+								<button className="bg-white p-3 md:p-5 rounded-full hover:bg-blue-500">
 									<FaFacebook className="text-black text-xl md:text-2xl" />
 								</button>
 							</Link>
-							<Link href="https://linkedin.com">
-								<button className="bg-white p-3 md:p-5 rounded-full">
-									<FaLinkedin className="text-black text-xl md:text-2xl" />
+							<Link href="https://x.com/Inspirus_dbce">
+								<button className="bg-white p-3 md:p-5 rounded-full hover:bg-blue-500">
+									<FaTwitter className="text-black text-xl md:text-2xl" />
 								</button>
 							</Link>
 						</div>

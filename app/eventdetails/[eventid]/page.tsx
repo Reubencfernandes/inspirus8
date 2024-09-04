@@ -49,7 +49,7 @@ export default function EventDetails({ params }: EventDetailsProps) {
 		<>
 			<Nav />
 			<div className="bg-background">
-				<h1 className="text-center  font-retro text-4xl sm:text-5xl md:text-6xl lg:text-8xl">
+				<h1 className="text-center  font-retro text-4xl sm:text-5xl md:text-6xl lg:text-8xl uppercase">
 					{Event?.title}
 				</h1>
 				<div className="max-w-4xl mx-auto p-4 text-white">
@@ -116,9 +116,11 @@ export default function EventDetails({ params }: EventDetailsProps) {
 								<p>Time: <b>{Event?.time}</b></p>
 								<p>Venue: <b>{Event?.venue}</b></p>
 								<div className="list-disc list-inside" dangerouslySetInnerHTML={{ __html: Event?.members || ""}} />
+								<Link href={Event?.register || ''}>
 								<button className="mt-4 w-full p-2 bg-red-500 rounded">
 									Register
 								</button>
+								</Link>
 							</div>
 						</CardSpotlight>
 
@@ -171,41 +173,7 @@ export default function EventDetails({ params }: EventDetailsProps) {
 									Round Details
 								</h2>
 								<div className="font-inter leading-relaxed">
-									<p>Round 1: The Hidden Blueprint (Steganography)</p>
-									<p>A Digital Image called A Poneglyph is provided.</p>
-									<p>Round 1.1</p>
-									<ul className="list-disc list-inside">
-										<li>
-											One out of the two members (First Member) is given 15
-											minutes to analyze the Poneglyph and find the hidden
-											information.
-										</li>
-										<li>
-											The second member must wait outside while the first member
-											is in the process of analyzing the image.
-										</li>
-										<li>
-											After 15 minutes if the first member finds the hidden
-											information then the team is awarded with 50 points.
-										</li>
-									</ul>
-									<p>Round 2.2</p>
-									<ul className="list-disc list-inside">
-										<li>
-											If the first member is unable to find the hidden
-											information then he can ask for a hint but that will cost
-											the team 20 points.
-										</li>
-										<li>
-											After 15 minutes the second member switches places and
-											analyzes the Poneglyph and is provided with 10 minutes to
-											find the hidden information.
-										</li>
-										<li>
-											If the second member finds the information then the team
-											will get 25 points.
-										</li>
-									</ul>
+									
 								</div>
 							</div>
 						</CardSpotlight>

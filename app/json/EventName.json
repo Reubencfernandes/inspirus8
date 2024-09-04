@@ -5,7 +5,7 @@
       "title": "UI / UX Designing",
       "image": "https://cdn.midjourney.com/9882c596-0357-4c71-9a03-af8858e2e9f4/0_3.png",
       "description": "Unleash your inner design maverick at TechnoMorph! This event delves into the art and science of crafting intuitive digital interfaces and seamless user experiences. Dive into a fast-paced, hands-on challenge where creativity meets functionality, and explore the principles of design thinking to create applications that don’t just meet expectations—they exceed them. Whether you’re a designer, developer, or simply passionate about user-centric design, this is your gateway to mastering the craft of building interfaces that users love and experiences that resonate. Ready to morph your skills into something extraordinary? Let’s design the future, one interface at a time!",
-      "rules": "General Instructions/Rules:<br>1.Registration:<br><ul><li> Registration will be through an online form.</li><li>Registrations will be conducted on a first-come-first-serve basis. A maximum of 20 teams will be allowed to register after which registration will be closed.</li><li>The form will be closed on 9th October 2024 at 11:59 PM. OR if the maximum number of teams(20) is reached.</li><li>Participants in the same team need not be from the same college/ higher secondary school.</li></ul><br>2.Problem Statement Allocation:<ul><li>Problem statements will be revealed 1 hour before the start of the competition, at 9 AM.</li><li>Problem statements will be assigned through a random draw. Participants should report to the C4 Lab by 9:30 AM for the same.</li><li>Once a problem statement is picked, it cannot be changed.</li></ul>3.Design Requirements<ul><li>Participants are required to use the free version of Figma for designing their solutions.</li><li>Designs must include interactive prototypes.</li><li> The wireframes should clearly outline the structure and layout of the interface.</li><li>The use of plugins is permitted; however, the use of AI is prohibited. All designs must be original. Teams will be disqualified if any form of plagiarism is detected.</li><li>Participants are required to bring their own laptops and any additional hardware they may need. Wifi will be provided.</li></ul>4.Time Limit<ul><li>Participants will have 3.5 hours, from 10:00 AM to 1:30 PM, to complete their designs following the selection of their problem statement. The project link must be shared with the coordinators at the beginning of the event.</li><<li> All submissions must be finalized and submitted before the time limit expires. Participants may leave for lunch at 1:30 PM and must report back at 2:00 PM. Judging will take place from 2:00 PM to 4:00 PM.</li>/ul>",
+      "rules": "1.Registration:<br><ul><li> Registration will be through an online form.</li><li>Registrations will be conducted on a first-come-first-serve basis. A maximum of 20 teams will be allowed to register after which registration will be closed.</li><li>The form will be closed on 9th October 2024 at 11:59 PM. OR if the maximum number of teams(20) is reached.</li><li>Participants in the same team need not be from the same college/ higher secondary school.</li></ul><br>2.Problem Statement Allocation:<ul><li>Problem statements will be revealed 1 hour before the start of the competition, at 9 AM.</li><li>Problem statements will be assigned through a random draw. Participants should report to the C4 Lab by 9:30 AM for the same.</li><li>Once a problem statement is picked, it cannot be changed.</li></ul>3.Design Requirements<ul><li>Participants are required to use the free version of Figma for designing their solutions.</li><li>Designs must include interactive prototypes.</li><li> The wireframes should clearly outline the structure and layout of the interface.</li><li>The use of plugins is permitted; however, the use of AI is prohibited. All designs must be original. Teams will be disqualified if any form of plagiarism is detected.</li><li>Participants are required to bring their own laptops and any additional hardware they may need. Wifi will be provided.</li></ul>4.Time Limit<ul><li>Participants will have 3.5 hours, from 10:00 AM to 1:30 PM, to complete their designs following the selection of their problem statement. The project link must be shared with the coordinators at the beginning of the event.</li><<li> All submissions must be finalized and submitted before the time limit expires. Participants may leave for lunch at 1:30 PM and must report back at 2:00 PM. Judging will take place from 2:00 PM to 4:00 PM.</li>/ul>",
       "register":"https://docs.google.com/forms/d/e/1FAIpQLScSh5DpcVkCOfKcCkQWrOH-VQBQUi3CUb2G4xmRHFRY0eD-Qg/viewform?usp=sf_link",
       "date": "10th October 2024",
       "time": "10:00 am to 4:00 pm",
@@ -125,7 +125,7 @@
       "register":"https://forms.gle/ggxbVRnVu7vEJjy6A",
       "date": "10th October 2024",
       "time": "1:00 pm - 5:00 pm",
-      "venue": "Preliminary round: C19 Lab (1st floor),Main round: Seminar hall 2 (1st floor)",
+      "venue": "Preliminary round: C19 Lab (1st floor)",
       "mode" : "offline",
       "members": "<p>Members: <b>2 participants per team</b></p>",
       "eligibility":"Undergraduate and Diploma Students from professional and non-professional institutions.",
@@ -158,7 +158,7 @@
         {
           "name": "Jayden D'Souza",
           "number": "https://wa.me/+919307259550",
-          "image":"/Coordinator Pics/CryptoQuest/TE 1.jpg"
+          "image":"/Coordinator Pics/CryptoQuest/TE 1.jpeg"
         },
         {
           "name": "Shrinivas Imandar ",
@@ -182,12 +182,12 @@
         {
           "name": "Faizan Akabani",
           "number": "https://wa.me/+918390109186",
-          "image": "/Coordinator Pics/Reel Ad Making/TE 1.jpeg"
+          "image": "/Coordinator Pics/Reel Ad Making/TE 1.jpg"
         },
         {
           "name": "Marco Gomes",
           "number": "https://wa.me/+917019480358",
-          "image": "/Coordinator Pics/Reel Ad Making/SE.jpeg"
+          "image": "/Coordinator Pics/Reel Ad Making/SE.jpg"
         }
       ]
     },
@@ -207,12 +207,12 @@
         {
           "name": "Lauren Rodrigues",
           "number": "https://wa.me/+919156981587",
-          "image": "/Coordinator Pics/Memes/TE 1.jpg"
+          "image": "/Coordinator Pics/Memes/TE 1.jpeg"
         },
         {
           "name": "Rakesh Chavan",
           "number": "https://wa.me/+917666472317",
-          "image": "/Coordinator Pics/Memes/SE.jpeg"
+          "image": "/Coordinator Pics/Memes/SE.jpg"
         }
       ]
     },
