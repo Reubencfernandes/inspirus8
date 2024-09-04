@@ -114,7 +114,7 @@ export default function EventDetails({ params }: EventDetailsProps) {
 								</h1>
 								<p>Date: <b>{Event?.date}</b></p>
 								<p>Time: <b>{Event?.time}</b></p>
-								<p>Venue: <b>{Event?.venue}</b></p>
+								<div className="" dangerouslySetInnerHTML={{ __html: Event?.venue || ""}} />
 								<div className="list-disc list-inside" dangerouslySetInnerHTML={{ __html: Event?.members || ""}} />
 								<Link href={Event?.register || ''}>
 								<button className="mt-4 w-full p-2 bg-red-500 rounded">
