@@ -93,7 +93,7 @@ export default function EventDetails({ params }: EventDetailsProps) {
 									<p>{Event?.contacts[1].name || 'Coordinator'}</p>
 									<p>Event Coordinator</p>
 									<Modal>
-									<Link href={Event?.contacts[0].number || ''}>
+									<Link href={Event?.contacts[1].number || ''}>
 										<ModalTrigger className="bg-black text-white flex justify-center group/modal-btn mt-1">
 											<span className="group-hover/modal-btn:translate-x-40 text-center transition duration-500">
 												Contact Me
