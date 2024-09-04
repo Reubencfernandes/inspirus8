@@ -20,6 +20,21 @@
           "title": "Convenor"
         }
       ]
+    }, {
+      "header": "Faculty Coordinators",
+      "category": "Faculty Coordinators",
+      "members": [
+        {
+          "name": "Prof. Amey K. Shet Tilve",
+          "image": "/amey_tilve.png",
+          "title": "Inspirus Co-ordinator"
+        },
+        {
+          "name": "Prof. Merwyn D'Souza",
+          "image": "/merwin.png",
+          "title": "C-CODES Coordinator"
+        }
+      ]
     },
     {
       "header": "Website Team",
@@ -27,7 +42,7 @@
       "members": [
         {
           "name": "Ms. Janhavi Naik",
-          "image": "/Faculty Photos/janvi.png",
+          "image": "/janvi.png",
           "title": "Guide"
         },
         {
@@ -47,7 +62,7 @@
         },
         {
           "name": "Eric Faleiro",
-          "image": "/Eric.jpeg",
+          "image": "/eric.png",
           "title": "Data collector"
         },
         {
@@ -64,33 +79,245 @@
         
         {
           "name": "Ms. Janhavi Naik",
-          "image": "https://example.com/path-to-image.jpg",
-          "title": "Faculty"
+          "image": "/janvi.png",
+          "title": "Guide"
         },
         {
           "name": "Mrs. Sweta Rane",
-          "image": "https://example.com/path-to-image.jpg",
+          "image": "/sweta.png",
           "title": "Faculty"
         },
         {
           "name": "Siddhi Raney",
-          "image": "https://example.com/path-to-image.jpg",
+          "image": "/sidhi Raney.jpg",
           "title": ""
         },
         {
           "name": "Faizan Akabani",
-          "image": "https://example.com/path-to-image.jpg",
+          "image": "/Faizan.jpeg",
           "title": "Director"
         },
         {
           "name": "Pranav Naik",
-          "image": "https://example.com/path-to-image.jpg",
-          "title": ""
+          "image": "/pranav.jpeg",
+          "title": "Cameramen"
         },
         {
           "name": "Sonal Gaonkar",
-          "image": "https://example.com/path-to-image.jpg",
+          "image": "/sonal.jpg",
           "title": "Actor"
+        },{
+          "name":"Thushar Jithendran",
+          "image":"/Coordinator Pics/TechnoMorph/SE.jpeg",
+          "title":"Cameramen"
+        }
+      ]
+    }, {
+      "header": "CodeClash",
+      "category": "Team Members",
+      "members": [
+        
+        {
+          "name": "Prof. Siya Khandeparkar",
+          "image": "/siya.png",
+          "title": "Faculty In-Charge"
+        },
+        {
+          "name": "Jay Rane",
+          "image":"/Coordinator Pics/CodeClash/TE 1.jpeg",
+          "title": "Coordinator"
+        },
+        {
+          "name": "Kshitij Patil",
+          "title": "Coordinator",
+          "image":"/Coordinator Pics/CodeClash/SE.jpeg"
+        }
+      ]
+    },{
+      "header": "CryptoQuest",
+      "category": "Team Members",
+      "members": [
+        
+        {
+          "name": "Prof. Manisha Fal Dessai",
+          "image": "/manisha.png",
+          "title": "Faculty In-Charge"
+        },
+        {
+          "name": "Jayden D'Souza",
+          "image":"/Coordinator Pics/CryptoQuest/TE 1.jpeg",
+          "title": "Coordinator"
+        },
+        {
+          "name": "Shrinivas Imandar ",
+          "image": "/Coordinator Pics/CryptoQuest/SE.jpeg",
+          "title": "Coordinator"
+        }
+      ]
+    },{
+      "header": "Cubix",
+      "category": "Team Members",
+      "members": [
+        
+        {
+          "name": "Prof. Amrita Naik",
+          "image": "/manisha.png",
+          "title": "Faculty In-Charge"
+        },
+        {
+          "name": "Sherwin Lourenco",
+          "image": "/Coordinator Pics/Cubix/TE 1.jpeg",
+          "title": "Coordinator"
+        },
+        {
+          "name": "Cynora Rodrigues",
+          "image": "/Coordinator Pics/Cubix/SE.jpeg",
+          "title": "Coordinator"
+        }
+      ]
+    },{
+      "header": "Veil of Secrets",
+      "category": "Team Members",
+      "members": [
+        
+        {
+          "name": "Prof. Janhavi Naik",
+          "image": "/janvi.png",
+          "title": "Faculty In-Charge"
+        },
+        {
+          "name": "Meha Dangui",
+          "image": "/meha.png",
+          "title": "Coordinator"
+        },
+        {
+          "name": "Diya Shanbhag",
+          "image": "/Coordinator Pics/Veil of Secrets/SE.jpg",
+          "title": "Coordinator"
+        }
+      ]
+    },{
+      "header": "ExQuizite",
+      "category": "Team Members",
+      "members": [
+        
+        {
+          "name": "Prof. Sweta Morajkar",
+          "image": "/sweta.png",
+          "title": "Faculty In-Charge"
+        },
+        {
+          "name": "Eric Faleiro",
+          "image":"/Coordinator Pics/ExQuizite/TE 1.jpg",
+          "title": "Coordinator"
+        },
+        {
+          "name": "Sandeep Sawant",
+          "image":"/Coordinator Pics/ExQuizite/SE.jpeg",
+          "title": "Coordinator"
+        }
+      ]
+    },{
+      "header": "Framed",
+      "category": "Team Members",
+      "members": [
+        
+        {
+          "name": "Prof. Norman Dias",
+          "image": "/norman.png",
+          "title": "Faculty In-Charge"
+        },
+        {
+          "name": "Jordan Fernandes",
+          "image":"/Coordinator Pics/Framed/TE 1.jpeg",
+          "title": "Coordinator"
+        },
+        {
+          "name": "Luke Fernandes",
+          "image":"/Coordinator Pics/Framed/SE.jpeg",
+          "title": "Coordinator"
+        }
+      ]
+    }, {
+      "header": "Inspirathon",
+      "category": "Faculty Coordinators",
+      "members": [
+        {
+          "name": "Prof. Amey K. Shet Tilve",
+          "image": "/amey_tilve.png",
+          "title": "Faculty In-Charge"
+        },
+        {
+          "name": "Prof. Merwyn D'Souza",
+          "image": "/merwin.png",
+          "title": "Faculty In-Charge"
+        },
+        {
+          "name": "Prof. Mithil Parab",
+          "image": "/mithil.png",
+          "title": "Faculty In-Charge"
+        },{
+          "name": "Sonal Gaonkar",
+          "title": "Coordinator",
+          "image":"/Coordinator Pics/Inspirathon/TE 1.jpg"
+        },{
+          "name": "Sairaj Chari",
+         "title": "Coordinator",
+          "image":"/Coordinator Pics/Inspirathon/SE.jpeg"
+        }
+      ]
+    }, {
+      "header": "Memes",
+      "category": "Faculty Coordinators",
+      "members": [
+        {
+          "name": "Prof. Viosha Cruz",
+          "image": "/Viosha.jpg",
+          "title": "Faculty In-Charge"
+        },{
+          "name": "Lauren Rodrigues",
+          "title": "Coordinator",
+          "image": "/Coordinator Pics/Memes/TE 1.jpeg"
+        },{
+          "name": "Rakesh Chavan",
+         "title": "Coordinator",
+          "image": "/Coordinator Pics/Memes/SE.jpg"
+        }
+      ]
+    }, {
+      "header": "Reel It Feel",
+      "category": "Faculty Coordinators",
+      "members": [
+        {
+          "name": "Prof. Amrita Naik",
+          "image": "/Amrita Naik.jpg",
+          "title": "Faculty In-Charge"
+        },{
+          "name": "Faizan Akabani",
+          "title": "Coordinator",
+          "image": "/Coordinator Pics/Reel Ad Making/TE 1.jpg"
+        },{
+          "name": "Marco Gomes",
+         "title": "Coordinator",
+          "image": "/Coordinator Pics/Reel Ad Making/SE.jpg"
+        }
+      ]
+    }, {
+      "header": "TechnoMorph",
+      "category": "Faculty Coordinators",
+      "members": [
+        {
+          "name": "Prof. Vivek Jog",
+          "image": "/jog.png",
+          "title": "Faculty In-Charge"
+        },{
+          "name": "Nathania Baptista",
+          "title": "Coordinator",
+           "image":"/Coordinator Pics/TechnoMorph/TE 1.jpg"
+        },{
+          "name": "Thushar Jithendran Nair",
+         "title": "Coordinator",
+          "image":"/Coordinator Pics/TechnoMorph/SE.jpeg"
         }
       ]
     }
