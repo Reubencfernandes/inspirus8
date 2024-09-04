@@ -325,17 +325,17 @@
       "category": "Faculty Coordinators",
       "members": [
         {
-          "name": "Prof. Amey Kerker",
+          "name": "Prof. Amey Kerker", 
           "image": "/amey.png",
           "title": "Faculty In-Charge"
         },{
           "name": "Griselda Fernandes",
           "title": "Coordinator",
-            "image": "/Coordinator Pics/Cubix/TE 1.jpeg"
+            "image":"/Coordinator Pics/Masterclass/Griselda.jpeg"
         },{
           "name": "Ananya Sawant",
          "title": "Coordinator",
-          "image":"/Coordinator Pics/TechnoMorph/SE.jpeg"
+          "image":"/Coordinator Pics/Masterclass/Ananya.jpeg"
         }
       ]
     }
