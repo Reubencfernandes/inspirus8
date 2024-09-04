@@ -7,7 +7,7 @@
         {
           "name": "Fr. Kinley D'Cruz",
           "image": "/kinley.jpg",
-          "title": "Director"
+          "title": "Convenor"
         },
         {
           "name": "Dr. Neena Panandikar",
@@ -17,7 +17,7 @@
         {
           "name": "Dr. Gaurang S Patkar",
           "image": "/gaurang.png",
-          "title": "Convenor"
+          "title": "HOD"
         }
       ]
     }, {
@@ -26,7 +26,7 @@
       "members": [
         {
           "name": "Prof. Amey K. Shet Tilve",
-          "image": "/amey_tilve.png",
+          "image": "/Amey tilve.jpg",
           "title": "Inspirus Co-ordinator"
         },
         {
@@ -66,8 +66,8 @@
           "title": "Data collector"
         },
         {
-          "name": "Jayden D'souza",
-          "image": "https://example.com/path-to-image.jpg",
+          "name": "Jayden Gomes",
+          "image": "/jayden.png",
           "title": "Developer"
         }
       ]
@@ -109,7 +109,7 @@
         },{
           "name":"Thushar Jithendran",
           "image":"/Coordinator Pics/TechnoMorph/SE.jpeg",
-          "title":"Cameramen"
+          "title":"Actor"
         }
       ]
     }, {
@@ -161,7 +161,7 @@
         
         {
           "name": "Prof. Amrita Naik",
-          "image": "/manisha.png",
+          "image": "/Amrita Naik.jpg",
           "title": "Faculty In-Charge"
         },
         {
@@ -243,18 +243,18 @@
       "category": "Faculty Coordinators",
       "members": [
         {
+          "name": "Prof. Mithil Parab",
+          "image": "/mithil.png",
+          "title": "Faculty In-Charge"
+        },
+        {
           "name": "Prof. Amey K. Shet Tilve",
-          "image": "/amey_tilve.png",
+          "image": "/Amey tilve.jpg",
           "title": "Faculty In-Charge"
         },
         {
           "name": "Prof. Merwyn D'Souza",
           "image": "/merwin.png",
-          "title": "Faculty In-Charge"
-        },
-        {
-          "name": "Prof. Mithil Parab",
-          "image": "/mithil.png",
           "title": "Faculty In-Charge"
         },{
           "name": "Sonal Gaonkar",
@@ -316,6 +316,24 @@
            "image":"/Coordinator Pics/TechnoMorph/TE 1.jpg"
         },{
           "name": "Thushar Jithendran Nair",
+         "title": "Coordinator",
+          "image":"/Coordinator Pics/TechnoMorph/SE.jpeg"
+        }
+      ]
+    }, {
+      "header": "MasterClass",
+      "category": "Faculty Coordinators",
+      "members": [
+        {
+          "name": "Prof. Amey Kerker",
+          "image": "/amey.png",
+          "title": "Faculty In-Charge"
+        },{
+          "name": "Griselda Fernandes",
+          "title": "Coordinator",
+            "image": "/Coordinator Pics/Cubix/TE 1.jpeg"
+        },{
+          "name": "Ananya Sawant",
          "title": "Coordinator",
           "image":"/Coordinator Pics/TechnoMorph/SE.jpeg"
         }
