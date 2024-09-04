@@ -26,7 +26,7 @@ const Home = () => {
 							</h1>
 							<p className="font-inter text-white text-lg md:text-xl lg:text-2xl">
 								Don Bosco College of Engineering
-							</p>
+							</p> 
 						</div>
 						<div>
 							<p className="font-inter text-center text-white text-lg md:text-xl lg:text-2xl md:text-left">
