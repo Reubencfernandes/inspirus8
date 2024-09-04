@@ -6,14 +6,26 @@
       "image": "https://cdn.midjourney.com/9882c596-0357-4c71-9a03-af8858e2e9f4/0_3.png",
       "description": "Unleash your inner design maverick at TechnoMorph! This event delves into the art and science of crafting intuitive digital interfaces and seamless user experiences. Dive into a fast-paced, hands-on challenge where creativity meets functionality, and explore the principles of design thinking to create applications that don’t just meet expectations—they exceed them. Whether you’re a designer, developer, or simply passionate about user-centric design, this is your gateway to mastering the craft of building interfaces that users love and experiences that resonate. Ready to morph your skills into something extraordinary? Let’s design the future, one interface at a time!",
       "rules": "General Instructions/Rules:<br>1.Registration:<br><ul><li> Registration will be through an online form.</li><li>Registrations will be conducted on a first-come-first-serve basis. A maximum of 20 teams will be allowed to register after which registration will be closed.</li><li>The form will be closed on 9th October 2024 at 11:59 PM. OR if the maximum number of teams(20) is reached.</li><li>Participants in the same team need not be from the same college/ higher secondary school.</li></ul><br>2.Problem Statement Allocation:<ul><li>Problem statements will be revealed 1 hour before the start of the competition, at 9 AM.</li><li>Problem statements will be assigned through a random draw. Participants should report to the C4 Lab by 9:30 AM for the same.</li><li>Once a problem statement is picked, it cannot be changed.</li></ul>3.Design Requirements<ul><li>Participants are required to use the free version of Figma for designing their solutions.</li><li>Designs must include interactive prototypes.</li><li> The wireframes should clearly outline the structure and layout of the interface.</li><li>The use of plugins is permitted; however, the use of AI is prohibited. All designs must be original. Teams will be disqualified if any form of plagiarism is detected.</li><li>Participants are required to bring their own laptops and any additional hardware they may need. Wifi will be provided.</li></ul>4.Time Limit<ul><li>Participants will have 3.5 hours, from 10:00 AM to 1:30 PM, to complete their designs following the selection of their problem statement. The project link must be shared with the coordinators at the beginning of the event.</li><<li> All submissions must be finalized and submitted before the time limit expires. Participants may leave for lunch at 1:30 PM and must report back at 2:00 PM. Judging will take place from 2:00 PM to 4:00 PM.</li>/ul>",
+      "register":"https://docs.google.com/forms/d/e/1FAIpQLScSh5DpcVkCOfKcCkQWrOH-VQBQUi3CUb2G4xmRHFRY0eD-Qg/viewform?usp=sf_link",
+      "date": "10th October 2024",
+      "time": "10:00 am to 4:00 pm",
+      "venue": "C4 and C9 Lab",
+      "mode" : "offline",
+      "members": "<p><Members: <b>Maximum 2 per Team</b></p>",
+      "teamnumber":"2",
+      "prizes":"<p>1st Place: ₹6000</p><p>2nd Place: ₹4000</p><p>3rd Place: ₹2500</p>",
+      "roundinfo":"",
+      "eligibility":"Students from Undergraduate, Diploma, professional and non-professional institutions.",
       "contacts": [
         {
-          "name": "Faizan Akabani",
-          "number": "8390109186"
+          "name": "Nathania Baptista",
+          "number": "https://wa.me/+918459128894",
+          "image":"/Coordinator Pics/TechnoMorph/TE 1.jpg"
         },
         {
-          "name": "Tushar",
-          "number": ""
+          "name": "Thushar Jithendran Nair",
+          "number": "https://wa.me/+918975949676",
+          "image":"/Coordinator Pics/TechnoMorph/SE.jpeg"
         }
       ]
     },
@@ -22,68 +34,111 @@
       "title": "Inspirathon",
       "image": "https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
       "description": "Everybody has a creative potential and from the moment you can express this creative potential, you can start changing the world ~Paulo Coelho Bring your team and over 24-hours, you'll be tasked with developing a solution for our (currently secret👀) topics! The hackathon is for students of any level and background to get involved in! Yes we have prizes for our winners, but the aim of the event is to inspire, so get involved and give it a go!!",
-      "rules": "Eligibility:<br><ul><li>Students must be currently enrolled in an undergraduate, diploma, professional, or non-professional institution and possess a valid institute ID.</li><li>Each team must consist of exactly 3 members, all of whom must be current students.</li><li>A maximum of 4 teams per college is allowed, including interdepartmental teams. Intercollege teams do not count towards this limit.</li><li>If a college's team count exceeds 4, additional teams will only be considered if the total number of participating teams (i.e., 15) has not been reached.</li><li>Final acknowledgment of teams will be given once registration closes.</li></ul><br>Rules:<br><ul><li>Teams may use any programming language or software of their choice.</li><li>Teams must bring their own laptops and any necessary hardware.</li><li>Online registrations will close on October 6th at 5:00 PM or once a maximum of 15 teams have registered, on a first-come, first-serve basis.</li><li>On October 8th at 10:00 AM, problem statements will be released in a designated WhatsApp group, and teams must select and confirm their chosen problem by uploading their selection to the group. Allocation is first-come, first-serve, and once a problem is selected, it will no longer be available to others.</li><li>All development work must be completed at the hackathon venue.</li><li>Wi-Fi access and power points will be provided.</li><li>Teams must report to the venue by 9:00 AM on October 10th.</li><li>The hackathon begins at 10:00 AM on October 10th and ends at 10:00 AM on October 11th. Participants may take breaks but cannot leave the venue until the hackathon ends.</li><li>Teams will present their solutions to judges after the hackathon concludes. Each presentation will last 5 minutes, followed by a 5-minute Q&A session.</li><li>Presentations will be shown on a projector; teams must connect their systems via LAN, HDMI, or Wi-Fi.</li><li>The judges' decisions are final in case of any discrepancies.</li></ul><br>Judging Criteria:<ul><li>Solution to Problem (60%)</li><li>Creativity (15%)</li><li>Innovation (15%)</li><li>Presentation (10%)</li></ul>",
-      "contacts": [
+      "rules": "<ul><li><strong>Eligibility</strong><ul><li>Students from Undergraduate, Diploma, professional, and non-professional institutions.</li><li>Students should possess a valid institute ID.</li><li>Team members must be current students.</li><li>Minimum 1 member and maximum 3 members per team.</li><li>There will be a maximum of 4 teams allowed per college, including interdepartmental teams. However, if a team consists of members from different colleges, it will not count towards the 4-team limit for any single college.</li><li>If the number of teams from a college exceeds the 4-team limit, additional teams will only be considered if the total number of participating teams (i.e., 15) has not been reached.</li><li>The final acknowledgment of the teams will be given once the registration is closed.</li></ul></li><li><br><strong>Rules</strong><ul><li>Teams can use any programming language or software of their choice.</li><li>Teams have to carry their own laptops/hardware.</li><li>Online registrations will close on the 6th of October at 5:00 PM or once a maximum of 15 teams have registered, on a FIRST COME FIRST SERVE basis.</li><li>On the 8th of October at 10:00 AM, problem statements will be released by the coordinators on the designated WhatsApp group, 48 hours before the event. On the same day, teams must choose one problem statement and upload their selection via the designated WhatsApp group.</li><li>The allocation process of the problem statement will take place on a FIRST COME FIRST SERVE basis. Thereafter, that particular statement will no longer be available to the rest of the participants.</li><li>All development work on the problem statement should be done at the Hackathon venue.</li><li>Wi-Fi access and power points/Extensions will be made available at the venue.</li><li>Teams have to report at the venue by 9:00 AM on 10th October.</li><li>Refreshments will be provided:<ul><li>Day 1: Dinner</li><li>Day 2: Breakfast</li></ul></li><li>All refreshments are to be consumed in the pantry.</li><li>The Hackathon will begin at 10:00 AM on 10th October and will end at 10:00 AM morning on 11th October. The teams are free to take breaks in between.</li><li>The teams will not be provided with any additional accommodation.</li><li>Teams are not allowed to leave the venue until the end of the hackathon.</li><li>After the duration of the hackathon is over, participants have to be ready with their final demo/presentation of their apps/websites in all manners to present to the judges. No extra time will be given for the same.</li><li>Each team will have five minutes to present their solution to the judges, followed by a 5-minute Q&A session.</li><li>Presentations and demos will be shown on a projector connected to your system (LAN, HDMI, Wi-Fi).</li><li>In case of discrepancy, decisions made by the judges will be final.</li></ul></li><li><br><strong>Judging Criteria</strong><ul><li>Solution to problem (60%)</li><li>Creativity (15%)</li><li>Innovation (15%)</li><li>Presentation (10%)</li></ul></li></ul>",
+      "register":"https://forms.gle/ggxbVRnVu7vEJjy6A",
+      "date": "10th & 11th October 2024",
+      "time": "10:00 am to 10:00 am",
+      "venue": "Auditorium",
+      "mode" : "offline",
+      "members": "<p>Members: <b>Minimum 1 member <br> and Maximum 3 members per team</b></p>",
+      "teamnumber":"3",
+      "prizes":"<p>1st Place: ₹6000</p><p>2nd Place: ₹4000</p><p>3rd Place: ₹2500</p>",
+      "roundinfo":"",
+      "eligibility":"",
+   "contacts": [
         {
           "name": "Sonal Gaonkar",
-          "number": "7666437251"
+          "number": "https://wa.me/+917666437251",
+          "image":"/Coordinator Pics/Inspirathon/TE 1.jpg"
         },
         {
-          "name": "Sairaj",
-          "number": ""
+          "name": "Sairaj Chari",
+          "number": "https://wa.me/+919699365405",
+          "image":"/Coordinator Pics/Inspirathon/SE.jpeg"
         }
       ]
     },
     {
       "id": "3",
-      "title": "Framed (online)",
+      "title": "Framed ",
       "image": "https://cdn.midjourney.com/36853a23-c24a-455a-9642-068e16db8cc3/0_0.png",
       "description": "An online digital photography competition open to students across India. Participants are invited to submit their best photographs, showcasing their skills in capturing moments and telling stories through their lens, with winners recognized for their creativity and technical prowess.",
-      "rules": "General Instructions/Rules:<br><ul><li>Participants must submit a total of 3 photos, each adhering strictly to the specified criteria.</li><li>Photos should be submitted in .jpeg, .jpg, or .png format.</li><li>Both mobile phones and DSLRs are allowed for capturing photos.</li><li>All photos must be taken within the designated time period.</li><li>Photos should retain all original metadata.</li><li>Basic editing, such as color enhancement and cropping, is allowed.</li><li>Advanced editing techniques like creating illusions, manipulation, applying filters, adding or removing significant elements, and adding watermarks are prohibited.</li><li>Each photo submission must include a unique caption. Participants may also provide a description if they feel their photo tells a story.</li><li>Image files should be renamed as 'img_1', 'img_2', and 'img_3' before submission.</li><li>All photo details will be thoroughly checked.</li><li>Participants must submit only original photos taken by themselves. Any instance of plagiarism or cheating will result in disqualification.</li><li>Participants found submitting photos taken from the internet will be disqualified.</li><li>Exceeding the submission time limit will result in disqualification.</li><li>Late registrations will not be accepted.</li><li>Use of drones for photography is prohibited.</li><li>Violation of any instructions will lead to disqualification.</li></ul><br><strong>Topics Announcement:</strong><br><ul><li>Topics for the contest will be displayed on the website the day before the event at 9:00 pm.</li><li>Certain topics will require participants to be present on campus for photography, while others may not.</li><li>All three images submitted do not necessarily have to be from different topics.</li></ul>",
-      "contacts": [
+     "rules": "<strong>General Instructions/Rules:</strong><br><br><ul><li>Participants must submit a total of 3 photos, each of which fully meets the specified criteria.</li><li>Photos should be submitted in .jpeg, .jpg, or .png format.</li><li>Participants can use both mobile phones and DSLRs for photography.</li><li>Photos should be taken within the specified time period.</li><li>All photos must include the original metadata.</li><li>Basic editing such as color enhancement and cropping is allowed.</li><li>Advanced editing that creates illusions, manipulations, filters, or involves adding/removing significant elements, as well as watermarks within the frame, is prohibited.</li><li>Participants are required to provide a unique caption for each image submitted and may include a brief description if they feel their picture tells a story.</li><li>Submit image files renamed as 'img_1', 'img_2', and 'img_3'.</li><li>All details of the photos will be checked to ensure compliance with the rules.</li><li>Participants must submit only original images (photos taken by the participant themselves). Submitting copied or non-original photos will result in disqualification.</li><li>Any participant found submitting images sourced from the internet will be disqualified immediately.</li><li>Submissions that exceed the given time limit will lead to disqualification.</li><li>Late registrations will not be entertained.</li><li>The use of drones is not allowed.</li><li>Violation of any instructions will lead to disqualification.</li><li>Topics will be displayed on the website the previous day of the event at 9:00 pm. Certain topics will require you to be present on campus for the photographs while certain may not. All three images needn't be from different topics </li><br><li>All details regarding submissions of the photographs and any other details will be communicated via the designated WhatsApp group.</li></ul>",
+     "register":"https://forms.gle/ggxbVRnVu7vEJjy6A",
+     "date": "10th October 2024",
+     "time": "10:00 am ",
+     "venue": "NA",
+     "mode" : "offline/online",
+     "members": "<p>Members: <b>Solo</b></p>",
+     "teamnumber":"1",
+     "prizes":"<p>1st Place: ₹6000</p><p>2nd Place: ₹4000</p><p>3rd Place: ₹2500</p>",
+     "roundinfo":"",
+     "eligibility":"Students from Undergraduate, Diploma from Professional and Non-professional Institutions and Higher Secondary Schools",
+  "contacts": [
         {
           "name": "Jordan Fernandes",
-          "number": ""
+          "number": "https://wa.me/+919623256162",
+          "image":"/Coordinator Pics/Framed/TE 1.jpeg"
         },
         {
-          "name": "Gretchen",
-          "number": ""
+          "name": "Luke Fernandes",
+          "number": "https://wa.me/+919423875654",
+          "image":"/Coordinator Pics/Framed/SE.jpeg"
         }
       ]
     },
     {
       "id": "4",
       "title": "CodeClash",
-      "image": "https://cdn.midjourney.com/8d69c523-1974-47af-b3da-a99da28bb7e2/0_2.jpeg",
+      "image": "https://cdn.midjourney.com/6c59d26e-def6-4f4d-8ceb-fecc5983e751/0_0.png",
       "description": "CodeClash is an engaging competition that combines coding challenges with interactive mini-games. Teams will test their problem-solving skills through a series of tasks, including blind coding, error correction, and a coding showdown. The event requires participants to excel in both coding and game performance.",
-      "prerequisites": "<ul><li>Proficiency in C++.</li><li>Basic understanding of debugging and problem-solving.</li><li>Familiarity with coding practices and logical reasoning.</li></ul>",
-      "rules": "<ul><li>Each team will consist of 2 participants: a Coder and a Player.</li><li>The top 6 teams from Round 1 will receive a 10-minute advantage in Round 2.</li><li>The top 12 teams will advance from Round 1 to Round 2.</li><li>The top 4 teams from Round 2 will receive an additional 5 minutes in Round 3.</li><li>The top 6 teams will advance from Round 2 to Round 3.</li><li>In case of a tie, a sudden-death coding challenge will be used to determine the winner.</li><li>Teams should work together according to the format of each round.</li></ul><br>Round Descriptions and Rules:<br><ul><li><strong>Round 1: Coding & Mini-Games (45 minutes)</strong><ul><li>Format: Each team consists of two participants: Coder and Player.</li><li>Objective: Solve a mathematical expression through coding and participate in a mini-game challenge.</li><li>Part 1 - Blind Coding:<ul><li>Task: Coder has 10 minutes to blind code a solution to a provided mathematical expression using C++. After 10 minutes, the code is tested.</li><li>Points: 30</li><li>Advantage: The top 6 teams get a 10-minute advantage in the next round.</li><li>Elimination: The top 12 teams advance to Round 2.</li></ul></li><li>Part 2 - Mini-Game:<ul><li>Task: Player participates in a mini-game similar to 'minute to win it' challenges for 10 minutes.</li><li>Points: Up to 20</li></ul></li></ul></li><li><strong>Round 2: Solve the Error (20 minutes)</strong><ul><li>Format: Teams are given a slightly complex logical problem with errors in a provided program.</li><li>Objective: Identify and correct the errors to ensure the program runs successfully.</li><li>Task: Both Coder and Player work together to debug and correct the provided program. The Player assists by reviewing the logic and suggesting possible corrections.</li><li>Points: 40</li><li>Advantage: The top 4 teams receive an additional 5 minutes in the final round.</li><li>Elimination: The top 6 teams proceed to Round 3.</li></ul></li><li><strong>Round 3: Coding Showdown (1 hour)</strong><ul><li>Format: A coding challenge where both participants tackle normal coding questions.</li><li>Objective: Solve as many coding problems as possible within the given time.</li><li>Task: Coder and Player decide whether to work separately on different problems or together on the same problems. The Player can assist by testing the solutions or suggesting strategies but cannot code.</li><li>Points: Points are awarded based on the number and complexity of problems solved.</li></ul></li></ul><br><strong>Winner:</strong> The team with the highest score at the end wins the event.<br><strong>Tie Breaker Round:</strong><ul><li>Task: If there's a tie, a sudden-death coding challenge determines the winner.</li></ul>",
-      "judgingCriteria": "<ul><li>Correctness: Accuracy and functionality of the solutions.</li><li>Performance: Effective use of the given time and resources.</li><li>Code Quality: Structure and efficiency of the code.</li><li>Mini-Game Score: Points earned in the mini-game segment.</li></ul>",
-      "contacts": [
+     "rules": "<ul><li><strong>Pre-requisites:</strong><ul><li>Proficiency in C++.</li><li>Basic understanding of debugging and problem-solving.</li><li>Familiarity with coding practices and logical reasoning.</li></ul></li><li><br><strong>General Rules and Regulations:</strong><ul><li>Each team will consist of 2 participants: a Coder and a Player.</li><li>The top 6 teams from Round 1 will receive a 10-minute advantage in Round 2.</li><li>The top 12 teams will advance from Round 1 to Round 2.</li><li>The top 4 teams from Round 2 will receive an additional 5 minutes in Round 3.</li><li>The top 6 teams will advance from Round 2 to Round 3.</li><li>In case of a tie, a sudden-death coding challenge will be used to determine the winner.</li><li>Teams should work together according to the format of each round.</li></ul></li><li><strong><br>Round Descriptions and Rules:</strong><ul><li><br><strong>Round 1: Coding & Mini-Games (45 minutes)</strong><ul><li>Format: Each team consists of two participants: Coder and Player.</li><li>Objective: Solve a mathematical expression through coding and participate in a mini-game challenge.</li><li><strong><br>Part 1 - Blind Coding:</strong><ul><li>Task: Coder has 10 minutes to blind code a solution to a provided mathematical expression using C++. After 10 minutes, the code is tested.</li><li>Points: 30</li><li>Advantage: The top 6 teams get a 10-minute advantage in the next round.</li><li>Elimination: The top 12 teams advance to Round 2.</li></ul></li><li><strong><br>Part 2 - Mini-Game:</strong><ul><li>Task: Player participates in a mini-game similar to 'minute to win it' challenges for 10 minutes.</li><li>Points: Up to 20</li></ul></li></ul></li><li><strong><br>Round 2: Solve the Error (20 minutes)</strong><ul><li>Format: Teams are given a slightly complex logical problem with errors in a provided program.</li><li>Objective: Identify and correct the errors to ensure the program runs successfully.</li><li>Task: Both Coder and Player work together to debug and correct the provided program. The Player assists by reviewing the logic and suggesting possible corrections.</li><li>Points: 40</li><li>Advantage: The top 4 teams receive an additional 5 minutes in the final round.</li><li>Elimination: The top 6 teams proceed to Round 3.</li></ul></li><li><strong><br>Round 3: Coding Showdown (1 hour)</strong><ul><li>Format: A coding challenge where both participants tackle normal coding questions.</li><li>Objective: Solve as many coding problems as possible within the given time.</li><li>Task: Coder and Player decide whether to work separately on different problems or together on the same problems. The Player can assist by testing the solutions or suggesting strategies but cannot code.</li><li>Points: Points are awarded based on the number and complexity of problems solved.</li></ul></li><li><strong><br>Winner:</strong> The team with the highest score at the end wins the event.</li><li><strong><br>Tie Breaker Round</strong><ul><li>Task: If there's a tie, a sudden-death coding challenge determines the winner.</li></ul></li><li><strong><br>Judging Criteria</strong><ul><li>Correctness: Accuracy and functionality of the solutions.</li><li>Performance: Effective use of the given time and resources.</li><li>Code Quality: Structure and efficiency of the code.</li><li>Mini-Game Score: Points earned in the mini-game segment.</li></ul></li></ul></li></ul>",
+ "register":"https://forms.gle/WqgPePxXWeWdpsf66",
+ "date": "10th October 2024",
+      "time": "12:00 pm - 4:00 pm",
+      "venue": "C1, C2, C3 Lab",
+      "mode" : "offline",
+      "members": "<p>Members: <b>2 participants per team</b></p>",
+      "teamnumber":"2",
+      "prizes":"<p>1st Place: ₹6000</p><p>2nd Place: ₹4000</p><p>3rd Place: ₹2500</p>",
+      "roundinfo":"",
+      "eligibility":"Higher Secondary, Undergraduate and Diploma Students from professional and non-professional institutions.",
+    "contacts": [
         {
           "name": "Jay Rane",
-          "number": "8208516322"
+          "number": "https://wa.me/+918208516322",
+          "image":"/Coordinator Pics/CodeClash/TE 1.jpeg"
         },
         {
-          "name": "Kshitij",
-          "number": ""
+          "name": "Kshitij Patil",
+          "number": "https://wa.me/+918208516322",
+          "image":"/Coordinator Pics/CodeClash/SE.jpeg"
         }
       ]
     },
     {
       "id": "5",
       "title": "ExQuizite",
-      "image": "https://cdn.midjourney.com/f7c94415-9c72-450a-a635-4912f1a46e8b/0_1.png",
+      "image": "https://cdn.midjourney.com/d206d8a0-d0b0-414a-b506-45ff6af09c22/0_3.png",
       "description": "Knowledge is the key!! Quiz is the game!! ExQuizite is the way you can get fame!! Sharpen your brains, Gather in the field, Fight for the title! ExQuizite is a quiz that will challenge you and test your knowledge of Science and Technology along with General knowledge, Entertainment & Sports.",
-      "rules": "General Instructions/Rules:<br><ul><li>1. Team Composition: All team members must be from the same college. No intercollege teams are permitted. If a team is found to have members from different colleges, they will be disqualified. Replacement of any participant after registration is not allowed. However, in the event of an unforeseen circumstance (e.g., illness), a replacement may be permitted with prior approval from the organizers, provided it is 2 hours before the preliminary round i.e. 11 a.m.</li><li>2. Registration: There is a limit of 5 teams per college, determined on a first-come-first-serve basis. A maximum of 30 teams will be allowed to register. Once this limit is reached, registrations will be closed.</li><li>3. Theme and Topics: The quiz will cover the following themes: Science & Technology, Sports & Entertainment, Arts & Humanities, Social Sciences, Food & Lifestyle, and General Knowledge. Questions will be evenly distributed across these themes.</li><li>4. Preliminary Round: There will be exactly 5 teams moving onto the Main round. If more than 5 teams register, only then the preliminary round will be conducted to eliminate teams based on points. The preliminary round format, scoring system, and point-based elimination criteria will be announced before the start of the round. In case of a tie during the preliminary round, an additional 10 MCQ questions will be asked to each of the teams on Kahoot.</li><li>5. Main Rounds: The top 5 teams qualifying from preliminary round 2 will advance to the main round, where the final 2 winning teams will be determined. If scores are tied for 1st or 2nd place in the main round, a tie-breaker round will be conducted to determine the winners. The rules for each round will be clearly announced before the round begins. Teams are responsible for understanding the rules; they may ask for clarification before the round starts. No objections will be entertained once the round has begun.</li><li>6. Team Withdrawal: If a team leaves the quiz midway, they will not be allowed to compete further.</li><li>7. Decision of the Quiz Masters: The decision of the quiz masters will be final and not subject to change. However, in the event of a significant error identified after a decision, the matter will be reviewed, and necessary corrections will be made at the discretion of the organizers.</li><li>8. Tie-Breaker Rules: In the case of a tie for 1st or 2nd place in the main round, the tie-breaker will consist of 3 questions. The team with the highest score in the tie-breaker will be declared the winner. The order of set selection for the tie-breaker will be based on a coin toss.</li><li>9. Voice/Video Recording: A voice/video recording of each team answering the questions will be taken. In case of any discrepancies, the recording will be treated as evidence for making the final decision. If the recording fails or is inconclusive, the quiz master's decision will be final.</li></ul>",
+      "rules": "<strong>General Instructions/Rules</strong><br><ul><li><br><strong>1. Team Composition:</strong><br> All team members must be from the same college. No intercollege teams are permitted. If a team is found to have members from different colleges, they will be disqualified. Replacement of any participant after registration is not allowed. However, in the event of an unforeseen circumstance (e.g., illness), a replacement may be permitted with prior approval from the organizers, provided it is 2 hours before the preliminary round i.e. 11 a.m.</li><br><li><strong>2. Registration:</strong><br> There is a limit of 5 teams per college, determined on a first-come-first-serve basis. A maximum of 30 teams will be allowed to register. Once this limit is reached, registrations will be closed.</li><br><li><strong>3.Theme and Topics:</strong><br> The quiz will cover the following themes: Science & Technology, Sports & Entertainment, Arts & Humanities, Social Sciences, Food & Lifestyle, and General Knowledge. Questions will be evenly distributed across these themes.</li><br><li><strong>4.Preliminary Round:</strong><br> There will be exactly 5 teams moving onto the Main round. If more than 5 teams register, only then the preliminary round will be conducted to eliminate teams based on points. The preliminary round format, scoring system, and point-based elimination criteria will be announced before the start of the round. In case of a tie during the preliminary round, an additional 10 MCQ questions will be asked to each of the teams on Kahoot.</li><br><li><strong>5.Main Rounds:</strong><br> The top 5 teams qualifying from preliminary round 2 will advance to the main round, where the final 2 winning teams will be determined. If scores are tied for 1st or 2nd place in the main round, a tie-breaker round will be conducted to determine the winners. The rules for each round will be clearly announced before the round begins. Teams are responsible for understanding the rules; they may ask for clarification before the round starts. No objections will be entertained once the round has begun.</li><br><li><strong>6.Team Withdrawal:</strong><br> If a team leaves the quiz midway, they will not be allowed to compete further.</li><br><li><strong>7.Decision of the Quiz Masters:</strong><br> The decision of the quiz masters will be final and not subject to change. However, in the event of a significant error identified after a decision, the matter will be reviewed, and necessary corrections will be made at the discretion of the organizers.</li><br><li><strong>8.Tie-Breaker Rules:</strong> <br>In the case of a tie for 1st or 2nd place in the main round, the tie-breaker will consist of 3 questions. The team with the highest score in the tie-breaker will be declared the winner. The order of set selection for the tie-breaker will be based on a coin toss.</li><br><li><strong>9.Voice/Video Recording:</strong><br> A voice/video recording of each team answering the questions will be taken. In case of any discrepancies, the recording will be treated as evidence for making the final decision. If the recording fails or is inconclusive, the quiz master's decision will be final.</li></ul>",
+      "register":"https://forms.gle/ggxbVRnVu7vEJjy6A",
+      "date": "10th October 2024",
+      "time": "1:00 pm - 5:00 pm",
+      "venue": "Preliminary round: C19 Lab (1st floor),Main round: Seminar hall 2 (1st floor)",
+      "mode" : "offline",
+      "members": "<p>Members: <b>2 participants per team</b></p>",
+      "eligibility":"Undergraduate and Diploma Students from professional and non-professional institutions.",
       "contacts": [
         {
           "name": "Eric Faleiro",
-          "number": "8623069543"
+          "number": "https://wa.me/+918623069543",
+          "image":"/Coordinator Pics/ExQuizite/TE 1.jpg"
         },
         {
-          "name": "Jayden Gomes",
-          "number": "9370002388"
+          "name": "Sandeep Sawant",
+          "number": "https://wa.me/+919552885824",
+          "image":"/Coordinator Pics/ExQuizite/SE.jpeg"
         }
       ]
     },
@@ -92,14 +147,23 @@
       "title": "CryptoQuest",
       "image": "https://cdn.midjourney.com/a1713159-47a6-4e26-80db-dc171e603d0a/0_2.png",
       "description": "In CryptoQuest, participants are provided with code snippets that need to be combined to form a complete and functional solution to a given problem statement. This event tests logical thinking and coding skills in a challenging and engaging way.",
+      "register":"https://docs.google.com/forms/d/e/1FAIpQLSdU0SXwym2RA79wo2DtJNvCzC26btH_zFlYb_hnWrkVXpyToQ/viewform?usp=sf_link",
+      "date": "11th October 2024",
+      "time": "9:30 am - 1:00 pm",
+      "venue": "C1, C2, C3, C4 Lab",
+      "mode" : "offline",
+      "members": "<p>Members: <b>2 per team</b></p>",
+      "eligibility":"Higher Secondary, College and Diploma Students",
       "contacts": [
         {
-          "name": "Ritesh D. Chari",
-          "number": "9356132475"
+          "name": "Jayden D'Souza",
+          "number": "https://wa.me/+919307259550",
+          "image":"/Coordinator Pics/CryptoQuest/TE 1.jpg"
         },
         {
-          "name": "Sifhat",
-          "number": ""
+          "name": "Shrinivas Imandar ",
+          "number": "https://wa.me/+917038823805",
+          "image": "/Coordinator Pics/CryptoQuest/SE.jpeg"
         }
       ]
     },
@@ -108,63 +172,97 @@
       "title": "Reel Ad making (Reel it Feel it)",
       "image": "https://cdn.midjourney.com/e907935d-37ef-40ac-aeab-ec19d64a84e9/0_2.png",
       "description": "Create an Instagram reel featuring a comically exaggerated fake product. Participants are tasked with producing the most entertaining and creative reel, with the best reel receiving recognition. This event emphasizes creativity and humor in digital content creation.",
+      "register":"https://forms.gle/ggxbVRnVu7vEJjy6A",
+      "date": "10th October 2024",
+      "time": "10:00 am to 4:00 pm",
+      "venue": "C4 and C9 Lab",
+      "mode" : "offline",
+      "members": "<p>Members: <b>2 per team</b></p>",
       "contacts": [
         {
           "name": "Faizan Akabani",
-          "number": "8390109186"
+          "number": "https://wa.me/+918390109186",
+          "image": "/Coordinator Pics/Reel Ad Making/TE 1.jpeg"
         },
         {
-          "name": "Marco",
-          "number": ""
+          "name": "Marco Gomes",
+          "number": "https://wa.me/+917019480358",
+          "image": "/Coordinator Pics/Reel Ad Making/SE.jpeg"
         }
       ]
     },
     {
       "id": "8",
-      "title": "Memes (online)",
+      "title": "Meme-Off",
       "image": "https://cdn.midjourney.com/039e60c9-6ae9-4116-9eea-99aa3fd80a68/0_3.png",
-      "description": "Showcase your meme-making skills by creating humorous and creative memes. This online competition encourages participants to use their wit and creativity to craft memes that will entertain and amuse the audience, with the most engaging memes winning.",
+      "description": "Love coding and making memes? Want to showcase your creativity and humor to the world?If so, join the “Meme-Off,” a fun-filled meme competition organized by the Computer Department of Don Bosco College of Engineering!This contest is your chance to craft and share memes that capture the essence of coding culture and the daily programming challenges we all face. Use any programming language, framework, tool, or concept as your inspiration—just make sure your memes are original, relevant, and most importantly, hilarious!",
+      "rules":"<br><strong>General Instructions/Rules:</strong><br><ul><li>Registration will be through an online form.</li><li>The form will close on 6th October 2024 at 11:59pm OR if the maximum number of participants is reached.</li><li>Limit of 1 meme submission per solo participant or team.</li><li>Memes can be submitted in JPEG, jpg, png format. Submissions in PDF format with more than one meme in it are not allowed.</li><li>Team Registration: can register and participate as a solo participant or in a team.</li><li>Theme: Coding Culture and Programming, Language to be used: English</li><li>Your meme must include any of the following keywords: Engineering, Programming, Runtime error, Bug, Debugging, Hello world, Reference, Error, Libraries, Arduino, Github, Compile time, Hackathon, Stack overflow, Push, commit, Front end, Back end, Cookies, fork.</li><li>Do not use any obscene, political content; keep it family-friendly.</li><li>The meme should not hurt anyone's religious sentiments.</li><li>The participant will be responsible for any copyright issues.</li></ul><br><strong>Meme Submission</strong><br><ul><li>The criteria for getting selected in top 6 memes submitted via Google form will be totally based on creativity.</li></ul><br><strong>After selecting Top 6:</strong><br><ul><li>The winners of the “Meme-Off Competition” will be determined through a voting process conducted via a Google Form, where the top 6 selected memes will be the options to vote on.</li><li>Here’s how it will be done:</li><li>Once the top 6 memes are chosen, on the 7th of October 2024 the Google Form link will be shared via WhatsApp to the participants whose memes made it to the final round.</li><li>These selected participants will then need to gather votes for their memes by sharing the Google Form with as many people as possible. The Google Form will be open for voting for a limited time and the deadline will be communicated through WhatsApp to the selected participants.</li><li>The top 2 winners will be decided based on the number of votes they collect during the allotted voting period.</li></ul>",
+      "register":"https://forms.gle/ggxbVRnVu7vEJjy6A",
+      "date": "10th October 2024",
+      "time": "10:00 am to 4:00 pm",
+      "venue": "C4 and C9 Lab",
+      "mode" : "offline",
+      "members": "<p>Members: <b>2 per team</b></p>",
       "contacts": [
         {
           "name": "Lauren Rodrigues",
-          "number": "9156981587"
+          "number": "https://wa.me/+919156981587",
+          "image": "/Coordinator Pics/Memes/TE 1.jpg"
         },
         {
-          "name": "Rakesh",
-          "number": ""
+          "name": "Rakesh Chavan",
+          "number": "https://wa.me/+917666472317",
+          "image": "/Coordinator Pics/Memes/SE.jpeg"
         }
       ]
     },
     {
       "id": "9",
-      "title": "Rubiks Cube",
+      "title": "Cubix",
       "image": "https://cdn.midjourney.com/d6434eba-b6a9-414d-a8a9-e1f83230c90b/0_0.png",
-      "description": "Cubix is an exciting competition where contestants race against the clock to solve a 3x3 Rubik's cube, aiming to align all faces to the same color. This event highlights the speed and skill of cubers as they manipulate the cube through complex twists and turns. It's a thrilling display of mental agility and finger dexterity, open to both novices and experienced cubers.",
-      "rules": "General Instructions/Rules:<br><ul><li>Competitors must bring their own 3x3 Rubik’s cubes for the competition.</li><li>Puzzles must be clean and free from any markings, elevated pieces, damage, or significant differences that could affect the competition.</li><li>All solves will be timed using a computer.</li><li>A 10-second inspection time will be provided before each solve.</li><li>Each competitor's average time will be calculated from 2 rounds.</li><li>If two or more participants have the same average time, a tie-breaker round will be held.</li><li>While competing, the use of electronics or audio equipment (e.g., cell phones, MP3 players, Dictaphones, additional lighting) is prohibited.</li></ul>",
+      "description": "Contestants race against the clock to arrange the cube's colored faces into a uniform pattern, typically aligning all sides to have the same color. This event showcases the speed and dexterity of cubers as they manipulate the cube's complex twists and turns, impressing audiences with their ability to solve it in record times. Whether you're a novice or a seasoned cuber, this event is a captivating display of mental acumen and finger dexterity.",
+      "rules": "<ul><li><strong>General Rules and Regulations</strong><br>Competitors must bring their own puzzles for the competition (3x3 Rubik’s cube).</li><li>Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that significantly distinguish any piece from a similar piece.</li><li>All solves will be timed on the computer.</li><li>An inspection time of 10 seconds would be given.</li><li>An average of 2 rounds will be taken.</li><li>If 2 or more participants have the same average time, there would be a tie-breaker round.</li><li>While competing, competitors must not use any electronics or audio equipment (e.g. cell phones, MP3 players, Dictaphones, additional lighting).</li></ul>",
+      "register":"https://forms.gle/ggxbVRnVu7vEJjy6A",
+      "date": "10th October 2024",
+      "time": "10:00 am to 4:00 pm",
+      "venue": "C4 and C9 Lab",
+      "mode" : "offline",
+      "members": "<p>Members: <b>2 per team</b></p>",
       "contacts": [
         {
           "name": "Sherwin Lourenco",
-          "number": "7391804162"
+          "number": "https://wa.me/+917391804162",
+          "image": "/Coordinator Pics/Cubix/TE 1.jpeg"
         },
         {
-          "name": "Cynora",
-          "number": ""
+          "name": "Cynora Rodrigues",
+          "number": "https://wa.me/+919309501536",
+          "image": "/Coordinator Pics/Cubix/SE.jpeg"
         }
       ]
-    },
+    },    
     {
       "id": "10",
-      "title": "Escapium (Escape Room)",
+      "title": "Veil of secrets",
       "image": "https://cdn.midjourney.com/f7c94415-9c72-450a-a635-4912f1a46e8b/0_1.png",
-      "description": "Test your puzzle-solving skills in a race against time within an escape room scenario. Participants must use their critical thinking and teamwork to solve puzzles and escape the room before the time runs out.",
-      "contacts": [
+      "description": "Dive into an exhilarating adventure where the worlds of escape rooms and treasure hunts collide! “Veil of Secrets” is an immersive, interactive event that challenges your problem-solving skills, teamwork, and wit as you race against the clock to solve puzzles, unlock secrets, and find hidden treasures.",
+     "rules": "<strong>Rules:</strong><br><ul><li>Registration will be through ONLINE form.</li><li>The registration form should be filled by team leaders only once.</li><li>Any team submitting more than one form will be disqualified.</li><li>Only team leaders should join the whatsapp group via the link provided after the submission of the form.</li><li>All team members should report to the venue 15 minutes before the start of the event. Late arrivals may result in a reduced playtime.</li><li>The event consists of 3 rounds.</li></ul><br><strong>Round 1:</strong><br><ul><li>Round 1 will be an aptitude and logical reasoning round.</li><li>The duration will be 15 minutes.</li><li>Teams will be selected for round 2 based upon the maximum scores.</li><li>Out of maximum teams participation only 12-14 teams will be qualified for the next round.</li><li>If there is a tie between two teams, the team that used less time to complete the task will be given priority for qualification.</li></ul><br><strong>Round 2:</strong><br><ul><li>Round 2 will be based on puzzle solving.</li><li>Time limit is 15 minutes.</li><li>Only TOP 5 teams will qualify for round 3 based on the maximum number of scores.</li><li>If there is a tie between two teams, the team that used less time to complete the task will be given priority for qualification.</li></ul><br><strong>Round 3:</strong><br><ul><li>Round 3 consists of Escape Room and Treasure Hunt.</li><li>Teams must solve a series of puzzles and perform tasks to find the hidden clues.</li><li>Each clue leads to the next puzzle or location.</li><li>Teams are allowed to communicate freely among themselves. However, no communication with other teams or external help is permitted.</li><li>If two or more teams find the treasure simultaneously then a tie breaker round will be held and the first team to complete the task will be the winner.</li></ul><br><strong>Note:</strong><br><ul><li>All team members should carry their ID cards.</li><li>The use of personal tools, such as cell phones, cameras, or any other gadgets, is strictly prohibited during the game.</li><li>In case of discrepancy, decisions made by the coordinators will be final.</li></ul>",
+      "register":"https://forms.gle/ggxbVRnVu7vEJjy6A",
+      "date": "10th October 2024",
+      "time": "10:00 am to 4:00 pm",
+      "venue": "C4 and C9 Lab",
+      "mode" : "offline",
+      "members": "<p>Members: <b>2 per team</b></p>",
+     "contacts": [
         {
           "name": "Meha Dangui",
-          "number": "8421640719"
+          "number": "https://wa.me/+918421640719",
+          "image": "/Coordinator Pics/Veil of Secrets/TE 1.jpg"
         },
         {
-          "name": "Diya",
-          "number": ""
+          "name": "Diya Shanbhag",
+          "number": "https://wa.me/+917387797988",
+          "image": "/Coordinator Pics/Veil of Secrets/SE.jpg"
         }
       ]
     },
@@ -173,14 +271,22 @@
       "title": "Masterclass",
       "image": "https://cdn.midjourney.com/b4b77471-0f30-437b-b43f-afa1a0da0cec/0_3.png",
       "description": "Join the Masterclass for a series of fun games and friendly competitions. This event is designed to be a social gathering where participants can engage in enjoyable activities and challenge their friends in a relaxed and friendly environment.",
+     "register":"https://forms.gle/ggxbVRnVu7vEJjy6A",
+     "date": "10th October 2024",
+      "time": "10:00 am to 4:00 pm",
+      "venue": "C4 and C9 Lab",
+      "mode" : "offline",
+      "members": "<p>Members: <b>NA</b></p>",
       "contacts": [
         {
-          "name": "Ananya Sawant",
-          "number": "7387797988"
+          "name": "Griselda Fernandes",
+          "number": "https://wa.me/+917887868427",
+          "image":"https://cdn.midjourney.com/039e60c9-6ae9-4116-9eea-99aa3fd80a68/0_3.png"
         },
         {
-          "name": "Griselda Fernandes",
-          "number": ""
+       "name": "Ananya Sawant",
+       "number": "https://wa.me/+917387797988",
+          "image":"https://cdn.midjourney.com/039e60c9-6ae9-4116-9eea-99aa3fd80a68/0_3.png"
         }
       ]
     }

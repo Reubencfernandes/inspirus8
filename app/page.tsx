@@ -34,7 +34,7 @@ const Home = () => {
 								by C-CODES and the Department of Computer Engineering, this
 								flagship event of Don Bosco College of Engineering brings
 								together participants from across Goa to compete and innovate in
-								technology for exciting prizes. Dont miss it!
+								technology for exciting prizes. <b>Dont miss it!</b>
 							</p>
 						</div>
 					</div>

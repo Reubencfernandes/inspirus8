@@ -16,6 +16,7 @@ import SparklesText from "@/components/magicui/sparkles-text";
 import Foot from "@/app/Components/footer";
 import Image from "next/image";
 import eventData from "@/app/json/EventName.json"; // Directly import JSON data
+import Link from 'next/link';
 
 
 interface EventDetailsProps {
@@ -62,13 +63,14 @@ export default function EventDetails({ params }: EventDetailsProps) {
 									<Image
 										height={500}
 										width={500}
-										src="https://avatars.githubusercontent.com/u/31587917?v=4"
-										alt="Reuben"
-										className="rounded-full w-20 h-20 sm:w-24 sm:h-24 mb-2"
+										src={Event?.contacts[0].image || "https://avatars.githubusercontent.com/u/31587917?v=4" } 
+										alt={Event?.contacts[0].name || "Reuben"}
+										className="rounded-full w-48 h-48 sm:w-48 sm:h-48 mb-2 object-cover"
 									/>
 									<p>{Event?.contacts[0].name || 'Coordinator'}</p>
 									<p>Event Coordinator</p>
 									<Modal>
+										<Link href={Event?.contacts[0].number || ''}>
 										<ModalTrigger className="bg-black rounded-lg text-white flex justify-center group/modal-btn mt-1">
 											<span className="group-hover/modal-btn:translate-x-40 text-center transition duration-500">
 												Contact Me
@@ -77,19 +79,21 @@ export default function EventDetails({ params }: EventDetailsProps) {
 												💬
 											</div>
 										</ModalTrigger>
+										</Link>
 									</Modal>
 								</div>
 								<div className="flex items-center flex-col">
 									<Image
 										height={500}
 										width={500}
-										src="https://avatars.githubusercontent.com/u/31587917?v=4"
-										alt="Reuben"
-										className="rounded-full w-20 h-20 sm:w-24 sm:h-24 mb-2"
+										src={Event?.contacts[1].image || "https://avatars.githubusercontent.com/u/31587917?v=4" } 
+										alt={Event?.contacts[1].name || "Reuben"}
+										className="rounded-full w-48 h-48 sm:w-48 sm:h-48 mb-2 object-cover"
 									/>
 									<p>{Event?.contacts[1].name || 'Coordinator'}</p>
 									<p>Event Coordinator</p>
 									<Modal>
+									<Link href={Event?.contacts[0].number || ''}>
 										<ModalTrigger className="bg-black text-white flex justify-center group/modal-btn mt-1">
 											<span className="group-hover/modal-btn:translate-x-40 text-center transition duration-500">
 												Contact Me
@@ -98,6 +102,7 @@ export default function EventDetails({ params }: EventDetailsProps) {
 												💬
 											</div>
 										</ModalTrigger>
+										</Link>
 									</Modal>
 								</div>
 							</div>
@@ -107,10 +112,10 @@ export default function EventDetails({ params }: EventDetailsProps) {
 								<h1 className="text-3xl sm:text-4xl font-inter font-bold bg-gradient-to-tr from-green-600 to-blue-500 bg-clip-text text-transparent animate-gradient-x text-center mb-2">
 									Details
 								</h1>
-								<p>Date: 7th October, 2023</p>
-								<p>Time: 9:30 AM - 1:00 PM</p>
-								<p>Venue: C5 and C6</p>
-								<p>Members: 2 per team</p>
+								<p>Date: <b>{Event?.date}</b></p>
+								<p>Time: <b>{Event?.time}</b></p>
+								<p>Venue: <b>{Event?.venue}</b></p>
+								<div className="list-disc list-inside" dangerouslySetInnerHTML={{ __html: Event?.members || ""}} />
 								<button className="mt-4 w-full p-2 bg-red-500 rounded">
 									Register
 								</button>
@@ -127,12 +132,10 @@ export default function EventDetails({ params }: EventDetailsProps) {
 						<CardSpotlight className="p-4 bg-transparent border rounded-xl border-cardborder1">
 							<div className="relative z-20 text-center">
 								<h2 className="text-3xl sm:text-4xl font-bunge text-center mb-2">
-									EVENTS
+									Prize
 								</h2>
 								<div>
-									<p className="font-poppins">1st Place: ₹6000</p>
-									<p className="font-poppins">2nd Place: ₹4000</p>
-									<p className="font-poppins">3rd Place: ₹2500</p>
+								<div className="font-poppins" dangerouslySetInnerHTML={{ __html: Event?.prizes || ""}} />
 								</div>
 							</div>
 						</CardSpotlight>
@@ -143,7 +146,7 @@ export default function EventDetails({ params }: EventDetailsProps) {
 									Team Members
 								</h2>
 								<div className="flex justify-center items-center flex-col">
-									<h1 className="font-retro text-6xl sm:text-8xl">2</h1>
+									<h1 className="font-retro text-6xl sm:text-8xl">{Event?.teamnumber}</h1>
 									<p className="text-center ml-4 font-poppins">
 										Members Per Team
 									</p>
@@ -158,10 +161,7 @@ export default function EventDetails({ params }: EventDetailsProps) {
 										Eligibility
 									</h2>
 								</div>
-								<p>
-									Undergraduate and Diploma students from all professional and
-									non-professional institutions
-								</p>
+								<div className="font-poppins" dangerouslySetInnerHTML={{ __html: Event?.eligibility || ""}} />
 							</div>
 						</CardSpotlight>
 
