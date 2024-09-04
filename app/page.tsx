@@ -33,7 +33,7 @@ const Home = () => {
 								Join us for Inspirus 8 on October 10th and 11th, 2024! Presented
 								by C-CODES and the Department of Computer Engineering, this
 								flagship event of Don Bosco College of Engineering brings
-								together participants from across Goa and Neigbouring states to compete and innovate in
+								together participants from across Goa and Neighbouring states to compete and innovate in
 								technology for exciting prizes. <b>Dont miss it!</b>
 							</p>
 						</div>

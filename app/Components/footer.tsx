@@ -8,17 +8,11 @@ const Foot = () => {
 				<div className="flex flex-col md:flex-row justify-between items-center md:items-start">
 					<div className="flex flex-col mb-4 md:mb-0 justify-center md:ml-20 mt-5">
 						<h1 className="text-4xl md:text-6xl mb-2 font-bebas text-white text-center md:text-left">
-							Inspirus
+							Inspirus 8
 						</h1>
 						<p className="text-white font-inter text-center md:text-left">
-							Instagram: @inspirusdbce
-						</p>
-						<p className="text-white font-inter text-center md:text-left">
-							Facebook: @Inspirus
-						</p>
-						<p className="text-white font-inter text-center md:text-left">
-							Twitter: @inspirus2k21
-						</p>
+							Make it Happen </p>
+					
 						<div className="flex space-x-3 mt-3">
 							<Link href="https://www.instagram.com/inspirus8?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
 								<button className="bg-white p-3 md:p-5 rounded-full hover:bg-blue-500">
@@ -30,9 +24,9 @@ const Foot = () => {
 									<FaFacebook className="text-black text-xl md:text-2xl" />
 								</button>
 							</Link>
-							<Link href="https://x.com/Inspirus_dbce">
+							<Link href="https://www.linkedin.com/school/don-bosco-college-of-engineering-fatorda-goa/posts/?feedView=all">
 								<button className="bg-white p-3 md:p-5 rounded-full hover:bg-blue-500">
-									<FaTwitter className="text-black text-xl md:text-2xl" />
+									<FaLinkedin className="text-black text-xl md:text-2xl" />
 								</button>
 							</Link>
 						</div>
