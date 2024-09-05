@@ -70,7 +70,7 @@
           "image": "/jayden.png",
           "title": "Developer"
         },{
-          "name":"Anushka Da silva",
+          "name":"Anushka Da Silva",
           "image":"/anushka.jpg",
           "title":"Reviewer"
         }
@@ -107,7 +107,7 @@
         },
         {
           "name": "Siddhi Raney",
-          "image": "/sidhi Raney.jpg",
+          "image": "/Sidhi Raney.jpg",
           "title": "Actor"
         },
         {
@@ -141,10 +141,16 @@
           "name": "Nathania Baptista",
           "image": "/Coordinator Pics/TechnoMorph/TE 1.jpg",
           "title": "Designer"
-        },{
+        },
+        {
+          "name": "P.Jayesh Naidu",
+          "image": "/jayesh.png",
+          "title": "Designer"
+        },
+        {
           "name": "Sifhat ",
           "image": "/sifhat.jpeg",
-          "title": "Actor"
+          "title": "Designer"
         }
       ]
     }, {
@@ -331,7 +337,7 @@
           "title": "Coordinator",
           "image": "/Coordinator Pics/Reel Ad Making/TE 1.jpg"
         },{
-          "name": "Marco Gomes",
+          "name": "Marco Goes",
          "title": "Coordinator",
           "image": "/Coordinator Pics/Reel Ad Making/SE.jpg"
         }

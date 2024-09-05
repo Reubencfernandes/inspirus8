@@ -10,7 +10,7 @@ const TeamCards = (props:
   return (
     <>
     <CardContainer className="bg-cardcor rounded-lg font-inter">
-        <CardBody className="sm:max-w-48 max-w-32">
+        <CardBody className="sm:max-w-48 max-w-32 text-center flex flex-col items-center">
           <CardItem translateZ="100">
             <Image
               src={props.teamImage}
