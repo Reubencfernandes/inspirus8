@@ -35,7 +35,7 @@ const Home = () => {
 								by C-CODES and the Department of Computer Engineering, this
 								flagship event of Don Bosco College of Engineering brings
 								together participants from across Goa and Neighbouring states to compete and innovate in
-								technology for exciting prizes. <b>Don't miss it!</b>
+								technology for exciting prizes. <b>Don&apos;t miss it!</b>
 							</p>
 						</div>
 					</div>
@@ -119,7 +119,7 @@ const Home = () => {
 							Events
 						</h1>
 						
-						<HyperText className="text-4xl font-bold text-white text-center" text="Technical Events" duration={100}/>
+						<HyperText className="text-4xl font-bold text-white text-center" text="Technical Events" duration={50}/>
 						
 						
 						<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 content-center align-center justify-items-center mt-10">
@@ -133,7 +133,7 @@ const Home = () => {
 								/>
 							))}
 						</div>
-						<HyperText className="text-4xl font-bold text-white text-center mt-10" text="Non-Technical Events" duration={100}/>
+						<HyperText className="text-2xl lg:text-4xl font-bold text-white text-center mt-10" text="Non-Technical Events" duration={50}/>
 						<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 content-center align-center justify-items-center mt-10">
 							{data.events.filter(event => event.technical === false).map((event, index) => (
 								<Cards
