@@ -69,6 +69,10 @@
           "name": "Jayden Gomes",
           "image": "/jayden.png",
           "title": "Developer"
+        },{
+          "name":"Anushka Da silva",
+          "image":"/anushka.jpg",
+          "title":"Reviewer"
         }
       ]
     },
@@ -218,7 +222,7 @@
         },
         {
           "name": "Meha Dangui",
-          "image": "/meha.png",
+          "image": "/meha.jpg",
           "title": "Coordinator"
         },
         {
