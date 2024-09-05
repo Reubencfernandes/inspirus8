@@ -50,7 +50,7 @@ export default function EventDetails({ params }: EventDetailsProps) {
 			<Nav />
 			<div className="bg-background">
 				<div className='flex flex-rows justify-center flex-wrap gap-2 pt-5 items-center'>
-					<Image src={Event?.inner_image || 'https://inspirus.netlify.app/images/edu.png'} alt={'logo'} width={200} height={200}/>
+					<Image src={Event?.inner_image || "https://avatars.githubusercontent.com/u/31587917?v=4"} alt={'logo'} width={200} height={200}/>
 				<h1 className="text-center  font-retro text-4xl sm:text-5xl md:text-6xl lg:text-8xl uppercase ios">
 					{Event?.title}
 				</h1>
