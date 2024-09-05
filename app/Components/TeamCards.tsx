@@ -31,7 +31,7 @@ const TeamCards = (props:
             translateZ="60"
             className="font-inter text-white pl-2 pb-3"
           >
-            {props.teamRole}
+            <div className="" dangerouslySetInnerHTML={{ __html: props.teamRole || "" }} />
           </CardItem>
         </CardBody>
       </CardContainer></>
