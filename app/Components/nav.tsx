@@ -8,7 +8,7 @@ const Nav = () => {
       <div className="container mx-auto flex justify-between items-center">
         <div>
           <Link href="/">
-          <Image src={logo} alt="inspirus-logo" className="h-40 w-auto" />
+          <Image src={logo} alt="inspirus-logo" className="h-20 sm:h-40 w-auto" />
           </Link>
         </div>
         <div className="space-x-8 flex">

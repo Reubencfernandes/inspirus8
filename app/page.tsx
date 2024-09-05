@@ -11,6 +11,7 @@ import image2 from './images/assets/secondimage.jpg'
 import image3 from './images/assets/thirdimage.jpg'
 import image4 from './images/assets/fourthimage.jpg'
 import image5 from './images/assets/fifthimage.jpg'
+import HyperText from '@/components/magicui/hyper-text';
 const Home = () => {
   return (
 			<>
@@ -21,7 +22,7 @@ const Home = () => {
 				<div className="bg-background m-0">
 					<div className="grid grid-cols-1 md:grid-cols-2 px-5 text-center justify-center py-10 md:py-20">
 						<div>
-							<h1 className="text-4xl md:text-6xl lg:text-8xl font-bold font-retro">
+							<h1 className="text-4xl md:text-6xl lg:text-8xl font-bold font-retro ios">
 								OCTOBER 10-11
 							</h1>
 							<p className="font-inter text-white text-lg md:text-xl lg:text-2xl">
@@ -34,7 +35,7 @@ const Home = () => {
 								by C-CODES and the Department of Computer Engineering, this
 								flagship event of Don Bosco College of Engineering brings
 								together participants from across Goa and Neighbouring states to compete and innovate in
-								technology for exciting prizes. <b>Dont miss it!</b>
+								technology for exciting prizes. <b>Don't miss it!</b>
 							</p>
 						</div>
 					</div>
@@ -114,11 +115,27 @@ const Home = () => {
 					</div>
 
 					<div className="card-section p-5 md:px-10 py-10 md:py-20">
-						<h1 className="text-4xl md:text-6xl lg:text-8xl font-bold font-retro text-center">
+						<h1 className="text-4xl md:text-6xl lg:text-8xl font-bold font-retro text-center ios">
 							Events
 						</h1>
+						
+						<HyperText className="text-4xl font-bold text-white text-center" text="Technical Events" duration={100}/>
+						
+						
 						<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 content-center align-center justify-items-center mt-10">
-							{data.events.map((event, index) => (
+							{data.events.filter(event => event.technical === true).map((event, index) => (
+								<Cards
+									key={index}
+									eventName={event.title}
+									eventDescription={event.description}
+									eventImage={event.image}
+									eventid={event.id}
+								/>
+							))}
+						</div>
+						<HyperText className="text-4xl font-bold text-white text-center mt-10" text="Non-Technical Events" duration={100}/>
+						<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 content-center align-center justify-items-center mt-10">
+							{data.events.filter(event => event.technical === false).map((event, index) => (
 								<Cards
 									key={index}
 									eventName={event.title}

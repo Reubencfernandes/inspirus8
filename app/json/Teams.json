@@ -88,28 +88,59 @@
           "title": "Faculty"
         },
         {
-          "name": "Siddhi Raney",
-          "image": "/sidhi Raney.jpg",
-          "title": ""
-        },
-        {
           "name": "Faizan Akabani",
           "image": "/Faizan.jpeg",
           "title": "Director"
+        },{
+          "name":"Thushar Jithendran",
+          "image":"/Coordinator Pics/TechnoMorph/SE.jpeg",
+          "title":"Actor"
         },
         {
-          "name": "Pranav Naik",
-          "image": "/pranav.jpeg",
-          "title": "Cameramen"
+          "name": "Shannon Dias",
+          "title": "Designer",
+          "image": "/shannon.png"
+        },
+        {
+          "name": "Siddhi Raney",
+          "image": "/sidhi Raney.jpg",
+          "title": "Actor"
         },
         {
           "name": "Sonal Gaonkar",
           "image": "/sonal.jpg",
           "title": "Actor"
+        }, {
+          "name": "Gretchen",
+          "image": "/gretchen.jpeg",
+          "title": "Actor"
+        }, {
+          "name": "Cindy Noronha",
+          "image": "/cindy.jpeg",
+          "title": "Actor"
         },{
-          "name":"Thushar Jithendran",
-          "image":"/Coordinator Pics/TechnoMorph/SE.jpeg",
-          "title":"Actor"
+          "name": "Lauren Rodrigues",
+          "title": "Designer",
+          "image": "/Coordinator Pics/Memes/TE 1.jpeg"
+        },
+        {
+          "name": "Pranav Naik",
+          "image": "/pranav.jpeg",
+          "title": "Designer"
+        },
+        {
+          "name": "Malcolm Antao",
+          "image": "/malcolm.jpg",
+          "title": "Designer"
+        },
+        {
+          "name": "Nathania Baptista",
+          "image": "/Coordinator Pics/TechnoMorph/TE 1.jpg",
+          "title": "Designer"
+        },{
+          "name": "Sifhat ",
+          "image": "/sifhat.jpeg",
+          "title": "Actor"
         }
       ]
     }, {
@@ -266,7 +297,7 @@
         }
       ]
     }, {
-      "header": "Memes",
+      "header": "Meme Off",
       "category": "Faculty Coordinators",
       "members": [
         {
