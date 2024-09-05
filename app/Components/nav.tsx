@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import logo from '../inspiruslogo.png';
+
 
 const Nav = () => {
   return (
@@ -8,7 +8,7 @@ const Nav = () => {
       <div className="container mx-auto flex justify-between items-center">
         <div>
           <Link href="/">
-          <Image src={logo} alt="inspirus-logo" className="h-20 sm:h-40 w-auto" />
+          <Image src="/inspiruslogo.png" alt="inspirus-logo" className="h-20 sm:h-40 w-auto" width={100} height={100} />
           </Link>
         </div>
         <div className="space-x-8 flex">

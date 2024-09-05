@@ -44,71 +44,71 @@ const Home = () => {
 							<Image
 								width={500}
 								height={500}
-								src={image1}
+								src="/firstimage.jpg"
 								alt="Image 1"
 								className="w-auto rounded-lg h-72 md:h-43rem"
 							/>
 							<Image
 								width={500}
 								height={500}
-								src={image2}
-								alt="Image 2"
+								src="/secondimage.jpg"
+								alt="second"
 								className="w-auto rounded-lg h-72 md:h-43rem"
 							/>
 							<Image
 								width={500}
 								height={500}
-								src={image3}
-								alt="Image 3"
+								src="/thirdimage.jpg"
+								alt="third"
 								className="w-auto rounded-lg h-72 md:h-43rem"
 							/>
 							<Image
 								width={500}
 								height={500}
-								src={image4}
-								alt="Image 4"
+								src="/fourthimage.jpg"
+								alt="fourth"
 								className="w-auto rounded-lg h-72 md:h-43rem"
 							/>
 							<Image
 								width={500}
 								height={500}
-								src={image5}
-								alt="Image 5"
+								src="/fifthimage.jpg"
+								alt="fifth"
 								className="w-auto rounded-lg h-72 md:h-43rem"
 							/>
 							<Image
 								width={500}
 								height={500}
-								src={image1}
-								alt="Image 6"
+								src="/firstimage.jpg"
+								alt="Image 1"
 								className="w-auto rounded-lg h-72 md:h-43rem"
 							/>
 							<Image
 								width={500}
 								height={500}
-								src={image2}
-								alt="Image 7"
+								src="/secondimage.jpg"
+								alt="second"
 								className="w-auto rounded-lg h-72 md:h-43rem"
 							/>
 							<Image
 								width={500}
 								height={500}
-								src={image3}
-								alt="Image 8"
+								src="/thirdimage.jpg"
+								alt="third"
 								className="w-auto rounded-lg h-72 md:h-43rem"
 							/>
 							<Image
 								width={500}
 								height={500}
-								src={image4}
-								alt="Image 9"
+								src="/fourthimage.jpg"
+								alt="fourth"
 								className="w-auto rounded-lg h-72 md:h-43rem"
 							/>
 							<Image
 								width={500}
 								height={500}
-								src={image5}
-								alt="Image 10"
+								src="/fifthimage.jpg"
+								alt="fifth"
 								className="w-auto rounded-lg h-72 md:h-43rem"
 							/>
 						</div>
