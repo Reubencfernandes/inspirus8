@@ -119,7 +119,7 @@ const Home = () => {
 							Events
 						</h1>
 						
-						<HyperText className="text-4xl font-bold text-white text-center" text="Technical Events" duration={50}/>
+						<HyperText className="text-2xl lg:text-4xl font-bold text-white text-center" text="Technical Events" duration={120}/>
 						
 						
 						<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 content-center align-center justify-items-center mt-10">
@@ -133,7 +133,7 @@ const Home = () => {
 								/>
 							))}
 						</div>
-						<HyperText className="text-2xl lg:text-4xl font-bold text-white text-center mt-10" text="Non-Technical Events" duration={50}/>
+						<HyperText className="text-2xl lg:text-4xl font-bold text-white text-center mt-10" text="Non-Technical Events" duration={120}/>
 						<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 content-center align-center justify-items-center mt-10">
 							{data.events.filter(event => event.technical === false).map((event, index) => (
 								<Cards
