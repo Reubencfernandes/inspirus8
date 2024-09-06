@@ -6,11 +6,6 @@ import { VelocityScroll } from "@/components/magicui/scroll-based-velocity";
 import Foot from './Components/footer';
 import Image from 'next/image';
 
-import image1 from './images/assets/firstimage.jpg'
-import image2 from './images/assets/secondimage.jpg'
-import image3 from './images/assets/thirdimage.jpg'
-import image4 from './images/assets/fourthimage.jpg'
-import image5 from './images/assets/fifthimage.jpg'
 import HyperText from '@/components/magicui/hyper-text';
 const Home = () => {
   return (
@@ -19,6 +14,7 @@ const Home = () => {
 				<Spline
         scene="https://prod.spline.design/6FczZU0C0HR3lmGN/scene.splinecode" 
       />
+
 				<div className="bg-background m-0">
 					<div className="grid grid-cols-1 md:grid-cols-2 px-5 text-center justify-center py-10 md:py-20">
 						<div>
