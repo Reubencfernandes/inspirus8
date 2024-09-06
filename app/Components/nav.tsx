@@ -98,41 +98,41 @@ const Nav = () => {
             onClick={() => setIsOpen(!isOpen)}
             className="hover:text-gray-400 text-white text-xl text-left"
           >
-            More
+            Details
           </button>
 
           {/* Dropdown Content for Mobile */}
           {isOpen && (
             <div className="flex flex-col space-y-2">
               <Link
-                href="/about"
-                className="px-4 py-2 text-gray-800 bg-white rounded-md hover:bg-gray-100"
+                href="https://drive.google.com/drive/folders/1xVXQ29cTUNttDZ6FbYxZdtkcUHGliLSj"
+                className="px-4 py-2 hover:text-gray-400 text-white text-xl"
                 onClick={() => {
                   setIsOpen(false);
                   setIsMenuOpen(false);
                 }}
               >
-                About Us
+                General Rules
               </Link>
               <Link
-                href="/services"
-                className="px-4 py-2 text-gray-800 bg-white rounded-md hover:bg-gray-100"
+                 href="https://drive.google.com/drive/folders/1e_8cDB5daNcFf2TDgpssXVFjdX7gW4Vp"
+                className="px-4 py-2 hover:text-gray-400 text-white text-xl"
                 onClick={() => {
                   setIsOpen(false);
                   setIsMenuOpen(false);
                 }}
               >
-                Services
+                Eligibility List
               </Link>
               <Link
-                href="/contact"
-                className="px-4 py-2 text-gray-800 bg-white rounded-md hover:bg-gray-100"
+                href="https://drive.google.com/drive/folders/1iWn-Lls9Te6Oq-DSlVC9vyA6D7C-fx4w"
+                className="px-4 py-2 hover:text-gray-400 text-white text-xl"
                 onClick={() => {
                   setIsOpen(false);
                   setIsMenuOpen(false);
                 }}
               >
-                Contact
+                Schedule
               </Link>
             </div>
           )}

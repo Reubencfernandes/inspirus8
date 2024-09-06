@@ -22,7 +22,7 @@ const Home = () => {
 								OCTOBER 10-11
 							</h1>
 							<p className="font-inter text-white text-lg md:text-xl lg:text-2xl">
-								Don Bosco College of Engineering
+								<b>Don Bosco College of Engineering</b>
 							</p> 
 						</div>
 						<div>

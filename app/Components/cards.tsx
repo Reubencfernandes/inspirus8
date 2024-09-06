@@ -17,7 +17,7 @@ const Cards = (props: {
 				/>
 				<div className="px-3 py-4">
 					<p className="font-bebas text-5xl text-white">{props.eventName}</p>
-					<p className="font-inter text-white mt-1">{props.eventDescription}</p>
+					<div className="font-inter text-white mt-1" dangerouslySetInnerHTML={{ __html: props.eventDescription || "Reuben is always Here" }} />
 					<div className="mt-5 mb-2">
 						<Link
 							className="text-white border p-3 font-inter font-bold text-xl rounded-lg border-cardborder hover:cursor-pointer hover:text-hold"
