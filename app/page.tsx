@@ -17,7 +17,7 @@ const Home = () => {
 			<>
 				<Nav />
 				<Spline
-        scene="https://prod.spline.design/P2q9a6aqHMkBs6od/scene.splinecode" 
+        scene="https://prod.spline.design/6FczZU0C0HR3lmGN/scene.splinecode" 
       />
 				<div className="bg-background m-0">
 					<div className="grid grid-cols-1 md:grid-cols-2 px-5 text-center justify-center py-10 md:py-20">
