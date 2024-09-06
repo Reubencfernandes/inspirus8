@@ -1,7 +1,6 @@
 import Image from "next/image"
 import Link from "next/link"
 const Cards = (props: { 
-// Theres some weird stuff happening with Git and GITHUB
   eventImage: string ,
   eventName: string ,
   eventDescription : string,
