@@ -40,70 +40,70 @@ const Home = () => {
 							<Image
 								width={500}
 								height={500}
-								src="/firstimage.jpg"
+								src="https://i.imgur.com/oGq1m4D.jpeg"
 								alt="Image 1"
 								className="w-auto rounded-lg h-72 md:h-43rem"
 							/>
 							<Image
 								width={500}
 								height={500}
-								src="/secondimage.jpg"
+								src="https://i.imgur.com/vjHIXpK.jpeg"
 								alt="second"
 								className="w-auto rounded-lg h-72 md:h-43rem"
 							/>
 							<Image
 								width={500}
 								height={500}
-								src="/thirdimage.jpg"
+								src="https://i.imgur.com/zvCcliv.jpeg"
 								alt="third"
 								className="w-auto rounded-lg h-72 md:h-43rem"
 							/>
 							<Image
 								width={500}
 								height={500}
-								src="/fourthimage.jpg"
+								src="https://i.imgur.com/eC4TuTp.jpeg"
 								alt="fourth"
 								className="w-auto rounded-lg h-72 md:h-43rem"
 							/>
 							<Image
 								width={500}
 								height={500}
-								src="/fifthimage.jpg"
+								src="https://i.imgur.com/dTVahjl.jpeg"
 								alt="fifth"
 								className="w-auto rounded-lg h-72 md:h-43rem"
 							/>
 							<Image
 								width={500}
 								height={500}
-								src="/firstimage.jpg"
+								src="https://i.imgur.com/oGq1m4D.jpeg"
 								alt="Image 1"
 								className="w-auto rounded-lg h-72 md:h-43rem"
 							/>
 							<Image
 								width={500}
 								height={500}
-								src="/secondimage.jpg"
+								src="https://i.imgur.com/vjHIXpK.jpeg"
 								alt="second"
 								className="w-auto rounded-lg h-72 md:h-43rem"
 							/>
 							<Image
 								width={500}
 								height={500}
-								src="/thirdimage.jpg"
+								src="https://i.imgur.com/zvCcliv.jpeg"
 								alt="third"
 								className="w-auto rounded-lg h-72 md:h-43rem"
 							/>
 							<Image
 								width={500}
 								height={500}
-								src="/fourthimage.jpg"
+								src="https://i.imgur.com/eC4TuTp.jpeg"
 								alt="fourth"
 								className="w-auto rounded-lg h-72 md:h-43rem"
 							/>
 							<Image
 								width={500}
 								height={500}
-								src="/fifthimage.jpg"
+								src="https://i.imgur.com/dTVahjl.jpeg"
 								alt="fifth"
 								className="w-auto rounded-lg h-72 md:h-43rem"
 							/>
