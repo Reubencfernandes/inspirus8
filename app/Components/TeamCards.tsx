@@ -1,5 +1,4 @@
 
-"use client";
 import Image from "next/image"
 import { CardBody, CardContainer, CardItem } from "../../components/ui/3d-card"
 const TeamCards = (props: 

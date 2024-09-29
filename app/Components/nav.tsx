@@ -15,12 +15,13 @@ const Nav = () => {
         {/* Logo Section */}
         <div>
           <Link href="/">
-            <Image
+            <img
               src="/inspiruslogo.png"
               alt="inspirus-logo"
               className="h-16 sm:h-40 w-auto" // Adjusted height for responsiveness
               width={100}
               height={100}
+              loading="eager"
             />
           </Link>
         </div>
