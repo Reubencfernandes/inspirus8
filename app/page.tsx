@@ -213,6 +213,11 @@ const Home = () => {
 						url: "https://www.creativecapsule.com/",
 						title: "Creative Capsule",
 						description: "This is the description for image 1",
+					},{
+						image: "https://i.imgur.com/fwz32zx.png",
+						url: "https://inspirus.dbcegoa.ac.in/",
+						title: "Arkatech",
+						description: "This is the description for image 1",
 					},
 					]}
 					/>
