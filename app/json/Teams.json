@@ -6,12 +6,12 @@
       "members": [
         {
           "name": "Fr. Kinley D'Cruz",
-          "image": "/kinley.jpg",
+          "image": "https://i.imgur.com/0fBbTRY.jpeg",
           "title": "Director<br>Chief Patron"
         },
         {
           "name": "Dr. Neena Panandikar",
-          "image": "/neena.jpeg",
+          "image": "https://imgur.com/RggHfjT.jpeg",
           "title": "Principal<br>Patron"
         },
         {
@@ -128,7 +128,7 @@
           "image": "/Coordinator Pics/Memes/TE 1.jpeg"
         },
         {
-          "name": "Pranav Naik",
+          "name": "Pranav Kerkar",
           "image": "/pranav.jpeg",
           "title": "Designer"
         },
@@ -365,7 +365,7 @@
       "category": "Faculty Coordinators",
       "members": [
         {
-          "name": "Prof. Amey Kerker", 
+          "name": "Prof. Amey kerkar", 
           "image": "/amey.png",
           "title": "Faculty In-Charge"
         },{

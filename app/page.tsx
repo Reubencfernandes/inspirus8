@@ -1,3 +1,4 @@
+"use client";
 import Spline from '@splinetool/react-spline/next';
 import Cards from './Components/cards';
 import data from './json/EventName.json';
@@ -7,6 +8,7 @@ import Foot from './Components/footer';
 import Image from 'next/image';
 
 import HyperText from '@/components/magicui/hyper-text';
+import { AnimatedPinDemo } from './Components/sponsors';
 const Home = () => {
   return (
 			<>
@@ -142,6 +144,34 @@ const Home = () => {
 							))}
 						</div>
 					</div>
+
+					<AnimatedPinDemo/>
+					<div className="sponsors text-center">
+  <HyperText className="text-2xl lg:text-4xl font-bold text-white mt-10" text="Sponsors" duration={120} />
+
+  <h1 className="text-2xl font-bold mt-6">Powered by</h1>
+  <div className="p-3">
+    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-4">
+      <img src="https://i.imgur.com/UY3wvln.jpg" className="w-full h-full object-contain" />
+      <img src="https://i.imgur.com/FRCz9Eg.jpg" className="w-full h-full object-contain" />
+      <img src="https://i.imgur.com/k4KlXSe.png" className="w-full h-40 object-contain" />
+    </div>
+
+    <h1 className="text-2xl font-bold mt-10">Supported by</h1>
+    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-4">
+      <img src="https://i.imgur.com/DS4y9jW.jpg" className="w-full h-40 object-contain" />
+      <img src="https://i.imgur.com/Jcy46d4.jpg" className="w-full h-40 object-contain" />
+      <img src="https://i.imgur.com/2lWiV1Y.jpg" className="w-full h-40 object-contain" />
+    </div>
+
+    <h1 className="text-2xl font-bold mt-10">Media Partner</h1>
+    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-4">
+      <img src="https://i.imgur.com/iHU9pmF.jpg" className="w-full h-40 object-contain" />
+    </div>
+  </div>
+</div>
+
+
 				</div>
 				<Foot />
 			</>
